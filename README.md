@@ -1,4 +1,5 @@
 # 🟩คอร์สทั้งหมด
+    🦯ด้านลีนุกซ์เซิร์ฟเวอร์
       - ลีนุกซ์ Ubuntu Server  👉 Course Outline 
       - ลีนุกซ์ CentOS Stream  👉 Course Outline
       - ลีนุกซ์ Red Hat (เตรียมสอบ RHCSA-I)  👉 Course Outline
@@ -6,21 +7,25 @@
       - ลีนุกซ์ Debian
       - ลีนุกซ์ Oracle Linux
 
+    🦯ด้าน Windows Server 
       - Windows Server 2019,2022
       - Windows Server 2025
 
+    🦯ด้านเวอร์ชวลไลเซชั่น 
       - Proxmox VE8
       - Proxmox Backup Server
       - Microsoft Hyper-V
       - Vmware Esxi
 
       - Docker
-
+      
+    🦯ด้าน SIEM 
       - Splunk Fundamental
       - Splunk System Engineer
       - Splunk Data System Engineer
       - Wazuh
 
+    🦯ด้าน Automation 
       - Ansible
       - Shell Script
       - PowerShell
@@ -29,24 +34,29 @@
       - GitHub Actions
       - JenKins
 
+    🦯ด้าน Cloud Computing 
       - AWS
       - Azure
       - Alibaba
 
+    🦯ด้าน Monitoring อุปกรณ์ไอทีในองค์กร 
       - Zabbix 
       - Grafana
       - Prometheus
       - Nagios
       - Graylog
 
+    🦯ด้านเว็บเซิร์ฟเวอร์
       - Nginx
       - เขียนเว็บไม่ต้องเขียนโปรแกรมด้วย WordPress + Nginx บน Server
       - เขียนเว็บไม่ต้องเขียนโปรแกรมด้วย WordPress + Nginx บน AWS
 
+    🦯ด้านระบบฐานข้อมูล
       - MySQL
       - MSSQL
       - PostgreSQL
 
+    🦯ด้านจัดการสตอเรจ 
       - TrueNAS
       
 
