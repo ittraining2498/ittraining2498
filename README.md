@@ -1,7 +1,7 @@
 # 🟩คอร์สลีนุกซ์เซิร์ฟเวอร์
-      - ลีนุกซ์ Ubuntu Server
-      - ลีนุกซ์ CentOS Stream
-      - ลีนุกซ์ Red Hat (เตรียมสอบ RHCSA-I)
+      - ลีนุกซ์ Ubuntu Server  👉 Course Outline 
+      - ลีนุกซ์ CentOS Stream  👉 Course Outline
+      - ลีนุกซ์ Red Hat (เตรียมสอบ RHCSA-I)  👉 Course Outline
 
 ![image](https://github.com/user-attachments/assets/45c6f818-fa4b-48fc-88c0-8287cd6c816f)
 
