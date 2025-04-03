@@ -2,8 +2,9 @@
 - ลีนุกซ์ Ubuntu Server
 - ลีนุกซ์ CentOS Stream
 - ลีนุกซ์ Red Hat (เตรียมสอบ RHCSA-I)
-  
-![image](https://github.com/user-attachments/assets/ced6ea23-e9d0-492c-9382-18e058c971fd)
+
+![image](https://github.com/user-attachments/assets/45c6f818-fa4b-48fc-88c0-8287cd6c816f)
+
 
 ✅ เป้าหมายอนาคตของผม
 - ข้อ 1
