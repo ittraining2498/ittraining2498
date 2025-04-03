@@ -5,12 +5,16 @@
       - ลีนุกซ์ Suse Enterprise
       - ลีนุกซ์ Debian
       - ลีนุกซ์ Oracle Linux
+
+      - Windows Server 2019,2022
       - Windows Server 2025
 
       - Proxmox VE8
       - Proxmox Backup Server
       - Microsoft Hyper-V
       - Vmware Esxi
+
+      - Docker
 
       - Splunk Fundamental
       - Splunk System Engineer
