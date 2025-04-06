@@ -77,9 +77,12 @@
       - Proxmox VE8 ระดับ Begining
       - Proxmox VE8 ระดับ Advance
 
+      
+
 # 🟩คอร์สออนไซต์เจอกัน เดือนพฤษภาคม - มิถุนายน 2568
       - Proxmox VE8 ระดับ Begining
       - Proxmox VE8 ระดับ Advance
+[![Lesson Example](https://img.youtube.com/vi/y6k_8fJD2DI/0.jpg)](https://youtu.be/y6k_8fJD2DI?si=5d90o6pW1xSI7hfT "Lesson Example")
 
 
 Ebook
