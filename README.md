@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/ittraining2498?label=จำนวนผู้ติดตาม&style=social)
+
 # 🟩คอร์สทั้งหมด
     🦯ด้านลีนุกซ์เซิร์ฟเวอร์
       - ลีนุกซ์ Ubuntu Server  👉 Course Outline 
