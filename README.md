@@ -14,7 +14,7 @@
 | คอร์ส | รูปแบบ | ตัวอย่าง |
 |-------|--------|----------|
 | [Linux พื้นฐาน](./CourseOutline/คอร์สลีนุกซ์ Ubuntu Server) | วิดีโอ, ออนไซต์ | [▶️](https://youtu.be/xxx) |
-| [CentOS สำหรับ DevOps](./CourseOutline) | ออนไลน์ | – |
+| [CentOS สำหรับ DevOps](./CourseOutline/11_xxxx) | ออนไลน์ | – |
 | [Ubuntu Server & HA](./courses/ubuntu/README.md)| ออนไซต์ | – |
 
 ---
