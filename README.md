@@ -16,7 +16,7 @@
 | คอร์ส | รูปแบบ | ตัวอย่าง |
 |-------|--------|----------|
 | [Ubuntu Server](https://github.com/ittraining2498/CourseOutline/tree/main/Ubuntu-Server) | วิดีโอ, ออนไซต์ | [▶️](https://youtu.be/xxx) |
-| [CentOS Stream9.x](../../../CourseOutline03_คอร์สลีนุกซ์%20CentOS%20Stream9) | ออนไลน์ | – |
+| [CentOS Stream9.x](../../../CourseOutline/tree/main/03_คอร์สลีนุกซ์%20CentOS%20Stream9) | ออนไลน์ | – |
 | [Ubuntu Server & HA](./courses/ubuntu/README.md)| ออนไซต์ | – |
  [Linux พื้นฐาน](./CourseOutline/Ubuntu-Server/index.md)
 ---
