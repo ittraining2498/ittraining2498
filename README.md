@@ -1,4 +1,4 @@
-[ดูคอร์ส Ubuntu Server](https://github.com/ittraining2498/CourseOutline)  
+[ดูคอร์ส Ubuntu Server](https://github.com/ittraining2498/CourseOutline/tree/main/%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%A5%E0%B8%B5%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%8B%E0%B9%8C%20Ubuntu%20Server)  
 [Linux พื้นฐาน](../../CourseOutline/Ubuntu-Server/index.md) | วิดีโอ, ออนไซต์ | [▶️](https://youtu.be/xxx) |
 # 🏫 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center
 
