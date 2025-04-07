@@ -59,16 +59,14 @@
 ## 📺 ช่อง YouTube ของเรา
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?label=กดติดตามช่อง%20YouTube&logo=youtube&style=for-the-badge&color=red)](https://youtube.com/channel/UCr478a9wEWp7F7vrXX6z5qg)
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?label=กดติดตามช่อง YouTube&logo=youtube&style=for-the-badge&color=red)](https://youtube.com/@ittraining2498)
-
 > รวมวิดีโอฟรี, สอนจริง, ติดตั้งใช้งานได้ทันที!
 
 ## ช่องทางติดต่อ / Social Media
 ## 📞 ติดต่อสอบถาม / สมัครเรียน
 
-📧 Email: sales@ittraining.co.th
-📱 Line: @linux
-🌐 Website: https://www.ittraining.co.th
+📧 Email: sales@ittraining.co.th  
+📱 Line: @linux  
+🌐 Website: https://www.ittraining.co.th  
 📺 YouTube: [ช่องของเรา](https://youtube.com/@ittraining2498)
 
 [<img src="https://img.icons8.com/nolan/64/facebook.png" height="40">](https://facebook.com/ittraining2498/)
