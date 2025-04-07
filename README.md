@@ -1,4 +1,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/ittraining2498?label=จำนวนผู้ติดตาม&style=social)
+## 👥 ผู้ติดตาม GitHub
+
+[![GitHub followers](https://img.shields.io/github/followers/ittraining2498?label=ผู้ติดตาม&style=social)](https://github.com/ittraining2498?tab=followers)
+
+[![ผู้ติดตาม](https://img.shields.io/github/followers/ittraining2498?label=ผู้ติดตาม&logo=github&style=flat-square&color=brightgreen)](https://github.com/ittraining2498?tab=followers)
+[![YouTube](https://img.shields.io/badge/ติดตามบน-YouTube-red?logo=youtube&style=flat-square)](https://youtube.com/@ittraining2498)
+
 
 # 🟩คอร์สทั้งหมด
     🦯ด้านลีนุกซ์เซิร์ฟเวอร์
