@@ -1,120 +1,76 @@
-> 🗓️ **เราเพิ่งเปิดให้บริการ GitHub อย่างเป็นทางการเมื่อเดือนเมษายน2568**  
-> ขอขอบคุณทุกกำลังใจ และการติดตามในช่วงเริ่มต้น 🙏  
-> ทีมงานของเรามุ่งมั่นที่จะพัฒนาคอร์สเพื่อให้ตรงกับความต้องการ เพื่อช่วยให้คุณเรียนรู้และนำไปปรับประยุกต์ทำงานได้จริง
+# 🏫 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center
+
+> 📌 **เปิดให้บริการอย่างเป็นทางการเมื่อ กรกฎาคม 2567**  
+> เรายังใหม่ แต่ตั้งใจ! ฝากติดตาม และแชร์ต่อเพื่อสนับสนุนกันครับ 🙏
 
 [![ผู้ติดตาม](https://img.shields.io/github/followers/ittraining2498?label=ผู้ติดตาม&logo=github&style=for-the-badge&color=brightgreen)](https://github.com/ittraining2498?tab=followers)
 
+---
 
+## 📚 รายชื่อคอร์สทั้งหมด (18 คอร์ส)
 
-![GitHub followers](https://img.shields.io/github/followers/ittraining2498?label=จำนวนผู้ติดตาม&style=social)
-## 👥 ผู้ติดตาม GitHub
+### 🔧 หมวดระบบปฏิบัติการ
 
-[![GitHub followers](https://img.shields.io/github/followers/ittraining2498?label=ผู้ติดตาม&style=social)](https://github.com/ittraining2498?tab=followers)
+| คอร์ส | รูปแบบ | ตัวอย่าง |
+|-------|--------|----------|
+| [Linux พื้นฐาน](./courses/linux/README.md) | วิดีโอ, ออนไซต์ | [▶️](https://youtu.be/xxx) |
+| [CentOS สำหรับ DevOps](./courses/centos/README.md) | ออนไลน์ | – |
+| [Ubuntu Server & HA](./courses/ubuntu/README.md) | ออนไซต์ | – |
 
-[![ผู้ติดตาม](https://img.shields.io/github/followers/ittraining2498?label=ผู้ติดตาม&logo=github&style=flat-square&color=brightgreen)](https://github.com/ittraining2498?tab=followers)
-[![YouTube](https://img.shields.io/badge/ติดตามบน-YouTube-red?logo=youtube&style=flat-square)](https://youtube.com/@ittraining2498)
+---
 
+### ⚙️ หมวด DevOps & Container
 
-# 🟩คอร์สทั้งหมด
-    🦯ด้านลีนุกซ์เซิร์ฟเวอร์
-      - ลีนุกซ์ Ubuntu Server  👉 Course Outline 
-      - ลีนุกซ์ CentOS Stream  👉 Course Outline
-      - ลีนุกซ์ Red Hat (เตรียมสอบ RHCSA-I)  👉 Course Outline
-      - ลีนุกซ์ Suse Enterprise
-      - ลีนุกซ์ Debian
-      - ลีนุกซ์ Oracle Linux
-- [ ] งานที่ยังไม่ทำ
-- [x] งานที่ทำแล้ว
+| คอร์ส | รูปแบบ | ตัวอย่าง |
+|-------|--------|----------|
+| [Docker เบื้องต้นถึงใช้งานจริง](./courses/docker/README.md) | วิดีโอ | [▶️](https://youtu.be/xxx) |
+| [Kubernetes มือใหม่](./courses/k8s/README.md) | ออนไลน์ | – |
+| [GitLab CI/CD Workshop](./courses/gitlab/README.md) | วิดีโอ | [▶️](https://youtu.be/xxx) |
 
-    🦯ด้าน Windows Server 
-      - Windows Server 2019,2022
-      - Windows Server 2025
+---
 
-    🦯ด้านเวอร์ชวลไลเซชั่น 
-      - Proxmox VE8
-      - Proxmox Backup Server
-      - Microsoft Hyper-V
-      - Vmware Esxi
+### 📈 หมวด Monitoring & Infra
 
-      - Docker
-      
-    🦯ด้าน SIEM 
-      - Splunk Fundamental
-      - Splunk System Engineer
-      - Splunk Data System Engineer
-      - Wazuh
+| คอร์ส | รูปแบบ | ตัวอย่าง |
+|-------|--------|----------|
+| [Zabbix Monitoring (6.0)](./courses/zabbix/README.md) | ออนไซต์ | [▶️](https://youtu.be/xxx) |
+| [Grafana Dashboard ขั้นเทพ](./courses/grafana/README.md) | วิดีโอ | – |
+| [Prometheus พื้นฐาน](./courses/prometheus/README.md) | วิดีโอ | – |
 
-    🦯ด้าน Automation 
-      - Ansible
-      - Shell Script
-      - PowerShell
-      - Batch File
-      - GitLab CI/CD
-      - GitHub Actions
-      - JenKins
+---
 
-    🦯ด้าน Cloud Computing 
-      - AWS
-      - Azure
-      - Alibaba
+### 💻 หมวดเสริมอาชีพ & ผู้ดูแลระบบ
 
-    🦯ด้าน Monitoring อุปกรณ์ไอทีในองค์กร 
-      - Zabbix 
-      - Grafana
-      - Prometheus
-      - Nagios
-      - Graylog
+| คอร์ส | รูปแบบ | ตัวอย่าง |
+|-------|--------|----------|
+| [PowerShell Automation](./courses/powershell/README.md) | วิดีโอ | – |
+| [Windows Server 2019](./courses/windows/README.md) | ออนไซต์ | [▶️](https://youtu.be/xxx) |
 
-    🦯ด้านเว็บเซิร์ฟเวอร์
-      - Nginx
-      - เขียนเว็บไม่ต้องเขียนโปรแกรมด้วย WordPress + Nginx บน Server
-      - เขียนเว็บไม่ต้องเขียนโปรแกรมด้วย WordPress + Nginx บน AWS
+---
 
-    🦯ด้านระบบฐานข้อมูล
-      - MySQL
-      - MSSQL
-      - PostgreSQL
+## 🎬 วิดีโอตัวอย่างแนะนำ
 
-    🦯ด้านจัดการสตอเรจ 
-      - TrueNAS
-      
+- [▶️ Docker เบื้องต้น (ดูฟรี)](https://youtu.be/xxxxxx)
+- [▶️ แนะนำคอร์ส Linux](https://youtu.be/yyyyyy)
+- [▶️ การติดตั้ง Zabbix 6.0 อย่างละเอียด](https://youtu.be/zzzzzz)
 
-      
-      
+---
 
-![image](https://github.com/user-attachments/assets/45c6f818-fa4b-48fc-88c0-8287cd6c816f)
-  
+## 📺 ช่อง YouTube ของเรา
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?label=กดติดตามช่อง%20YouTube&logo=youtube&style=for-the-badge&color=red)](https://youtube.com/channel/UCr478a9wEWp7F7vrXX6z5qg)
 
-# 🟩คอร์สวิดีโอ 🎁พิเศษ: ดาวน์โหลด
-      - Proxmox VE8 ระดับ Begining
-      - Proxmox VE8 ระดับ Advance
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?label=กดติดตามช่อง YouTube&logo=youtube&style=for-the-badge&color=red)](https://youtube.com/@ittraining2498)
 
-
-[![ตัวอย่าง](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://www.youtube.com/watch?v=gaXAgCRmho0)
-
-# 🟩คอร์สออนไลน์ผ่านซูม เดือนพฤษภาคม - มิถุนายน 2568
-      - Proxmox VE8 ระดับ Begining
-      - Proxmox VE8 ระดับ Advance
-
-      
-
-# 🟩คอร์สออนไซต์เจอกัน เดือนพฤษภาคม - มิถุนายน 2568
-      - Proxmox VE8 ระดับ Begining
-      - Proxmox VE8 ระดับ Advance
-[![Lesson Example](https://img.youtube.com/vi/y6k_8fJD2DI/0.jpg)](https://youtu.be/y6k_8fJD2DI?si=5d90o6pW1xSI7hfT "Lesson Example")
-
-
-Ebook
-https://github.com/ittraining2498/eBook
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
-
+> รวมวิดีโอฟรี, สอนจริง, ติดตั้งใช้งานได้ทันที!
 
 ## ช่องทางติดต่อ / Social Media
+## 📞 ติดต่อสอบถาม / สมัครเรียน
+
+📧 Email: sales@ittraining.co.th
+📱 Line: @linux
+🌐 Website: https://www.ittraining.co.th
+📺 YouTube: [ช่องของเรา](https://youtube.com/@ittraining2498)
+
 [<img src="https://img.icons8.com/nolan/64/facebook.png" height="40">](https://facebook.com/ittraining2498/)
 [<img src="https://img.icons8.com/nolan/64/youtube.png" height="40">](https://youtube.com/ittraining2498)
 [<img src="https://img.icons8.com/nolan/64/tiktok.png" height="40">](https://www.tiktok.com/@ittraining2498)
-
-
-
-
