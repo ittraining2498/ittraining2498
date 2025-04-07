@@ -13,7 +13,7 @@
 
 | คอร์ส | รูปแบบ | ตัวอย่าง |
 |-------|--------|----------|
-| [Linux พื้นฐาน](./CourseOutline/Ubuntu-Server/README.md) | วิดีโอ, ออนไซต์ | [▶️](https://youtu.be/xxx) |
+| [Linux พื้นฐาน](./https://github.com/ittraining2498/CourseOutline/tree/main/Ubuntu-Server) | วิดีโอ, ออนไซต์ | [▶️](https://youtu.be/xxx) |
 | [CentOS สำหรับ DevOps](./CourseOutline/11_xxxx) | ออนไลน์ | – |
 | [Ubuntu Server & HA](./courses/ubuntu/README.md)| ออนไซต์ | – |
 
