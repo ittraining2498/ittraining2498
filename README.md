@@ -5,8 +5,9 @@
 > 📌 **เปิดให้บริการอย่างเป็นทางการเมื่อ เมษายน 2568**  
 > เรายังใหม่ แต่ตั้งใจ! ฝากติดตาม และแชร์ต่อเพื่อสนับสนุนกันครับ 🙏
 
+<!--
 [![ผู้ติดตาม](https://img.shields.io/github/followers/ittraining2498?label=ผู้ติดตาม&logo=github&style=for-the-badge&color=brightgreen)](https://github.com/ittraining2498?tab=followers)
-
+-->
 ---
 
 ## 📚 รายชื่อคอร์สทั้งหมด (18 คอร์ส)
