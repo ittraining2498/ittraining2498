@@ -1,5 +1,3 @@
-[ดูคอร์ส Ubuntu Server](https://github.com/ittraining2498/CourseOutline/tree/main/คอร์สลีนุกซ์%20Ubuntu%20Server)  
-[Linux พื้นฐาน](../../CourseOutline/Ubuntu-Server/index.md) | วิดีโอ, ออนไซต์ | [▶️](https://youtu.be/xxx) |
 # 🏫 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center
 
 > 📌 **เปิดให้บริการอย่างเป็นทางการเมื่อ เมษายน 2568**  
