@@ -82,7 +82,7 @@
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| GitLab CI/CD | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| GitLab CI/CD | [รายละเอียด](../../../CourseOutline/tree/main/35_คอร์ส%20GitLab%20CICD%20PipeLine) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | GitHub Actions | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Jenkins  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 
