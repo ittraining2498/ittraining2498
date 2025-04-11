@@ -103,7 +103,7 @@
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| Splunk Fundamental | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| Splunk Fundamental | [รายละเอียด](../../../CourseOutline/tree/main/17_คอร์ส%20Splunk%20Fundamental) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Splunk system Engineer ระดับ Begining | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Splunk System Engineer ระดับ Advance  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Splunk Data Engineer ระดับ Begining  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
