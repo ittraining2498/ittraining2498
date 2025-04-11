@@ -128,7 +128,7 @@
 
 - [▶️ ปูพื้นฐานกับ Proxmox (ดูฟรี)](https://youtu.be/Co-YU5pwqBM?si=UoUB_gGNPH-dvrTN)
 - [▶️ เคล็ดไม่ลับอยากทำเซิร์ฟเวอร์](https://youtu.be/53hBLvspjWw?si=eLrt9it2eb_brEKR)
-- [▶️ การติดตั้ง Zabbix 7.0 อย่างละเอียด](https://youtu.be/ywPXwkfWoyI?si=rjCRDsbu-A2WyTpK)
+- [▶️ การติดตั้ง Zabbix อย่างละเอียด พร้อมใช้งานทันที](https://youtu.be/ywPXwkfWoyI?si=rjCRDsbu-A2WyTpK)
 
 ---
 
