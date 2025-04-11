@@ -32,7 +32,7 @@
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| Zabbix Monitoring | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| Zabbix Monitoring | [รายละเอียด](../../../CourseOutline/tree/main/24_คอร์ส%20Zabbix%20Monitoring) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Zabbix Monitoring ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Grafana Monitoring | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Grafana Monitoring ระดับ Avance | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
