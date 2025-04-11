@@ -46,10 +46,10 @@
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| Proxmox VE7 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Proxmox VE7 ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Proxmox VE8 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Proxmox VE8 ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| Proxmox VE7 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/11_คอร์ส%20Proxmox%20VE7%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| Proxmox VE7 ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/12_คอร์ส%20Proxmox%20VE7%20ระดับ%20Advance) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| Proxmox VE8 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/13_คอร์ส%20Proxmox%20VE8%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| Proxmox VE8 ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/14_คอร์ส%20Proxmox%20VE8%20ระดับ%20Advance) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Proxmox Backup Server(PBS) ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/04_คอร์สลีนุกซ์%20Oracle%20Linux9.x) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Hyper-V  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 
