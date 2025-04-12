@@ -51,6 +51,7 @@
 | Proxmox VE8 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/13_คอร์ส%20Proxmox%20VE8%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Proxmox VE8 ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/14_คอร์ส%20Proxmox%20VE8%20ระดับ%20Advance) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Proxmox Backup Server(PBS) ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/15_คอร์ส%20Proxmox%20Backup%20Server%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| Docker System Engineer  | [รายละเอียด](../../../CourseOutline/tree/main/42_คอร์ส%20Docker%20System%20Engineer) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 | Hyper-V  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 
 ---
