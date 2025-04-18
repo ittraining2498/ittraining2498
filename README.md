@@ -2,7 +2,19 @@
 
 > 📌 **เปิดให้บริการอย่างเป็นทางการเมื่อ เมษายน 2568**  
 > ฝากติดตาม และแชร์ต่อเพื่อสนับสนุนกันครับ 🙏
-
+ <a href="https://www.facebook.com/linuxsplunkproxmox" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@ittraining2498" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@ittraining2498" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+   <a href="https://www.ittraining.co.th" target="_blank">
+    <img src="https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebSite&logoColor=white"/>
+  </a>
+  
 ## 📺 ตัวอย่างวิดีโอจากช่องของเรา
 ### วิดีโอมาใหม่ ล่าสุด
 [![SSHแล้วขึ้นError!!](https://img.youtube.com/vi/lxzE9WX5jE4/0.jpg)](https://youtu.be/lxzE9WX5jE4)
