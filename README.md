@@ -146,6 +146,8 @@
 ## 📺 ช่อง YouTube ของเรา
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?label=กดติดตามช่อง%20YouTube&logo=youtube&style=for-the-badge&color=red)](https://youtube.com/channel/UCr478a9wEWp7F7vrXX6z5qg)
 
+[![Youtube ช่องยูทูปไอทีเทรนนิ่ง](https://youtube-stats-card.vercel.app/api?channelid=UCr478a9wEWp7F7vrXX6z5qg&theme=vue_dark&layout=extruded)](https://www.youtube.com/@ittraining2498)
+
 > รวมวิดีโอฟรี, สอนจริง, ติดตั้งใช้งานได้ทันที!
 
 ## ช่องทางติดต่อ / Social Media
