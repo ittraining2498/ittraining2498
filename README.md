@@ -2,7 +2,9 @@
 
 > 📌 **เปิดให้บริการอย่างเป็นทางการเมื่อ เมษายน 2568**  
 > ฝากติดตาม และแชร์ต่อเพื่อสนับสนุนกันครับ 🙏
- <a href="https://www.facebook.com/linuxsplunkproxmox" target="_blank">
+
+## ➡️ ช่องทางติดตาม,ติดต่อ 
+<a href="https://www.facebook.com/linuxsplunkproxmox" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.tiktok.com/@ittraining2498" target="_blank">
