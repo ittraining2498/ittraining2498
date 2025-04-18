@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
    <a href="https://www.ittraining.co.th" target="_blank">
-    <img src="https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebSite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WebSite-963000?style=for-the-badge&logo=WebSite&logoColor=white"/>
   </a>
    <a href="https://lin.ee/n5o31g8" target="_blank">
     <img src="https://img.shields.io/badge/Line@-008000?style=for-the-badge&logo=line&logoColor=white"/>
