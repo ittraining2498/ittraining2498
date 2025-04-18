@@ -25,6 +25,11 @@
    <a href="https://lin.ee/n5o31g8" target="_blank">
     <img src="https://img.shields.io/badge/Line@-008000?style=for-the-badge&logo=line&logoColor=white"/>
   </a>
+<br>
+
+  <a href="https://github.com/ittraining2498">
+  <img src="https://komarev.com/ghpvc/?username=ittraining2498&style=flat-square&color=blue" alt="ittraining2498"/>
+  </a>
   
 ## 📺 ตัวอย่างวิดีโอจากช่องของเรา
 ### วิดีโอมาใหม่ ล่าสุด
