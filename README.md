@@ -33,7 +33,7 @@
   
 ## 📺 ตัวอย่างวิดีโอจากช่องของเรา
 ### วิดีโอมาใหม่ ล่าสุด
-[![SSHแล้วขึ้นError!!](https://img.youtube.com/vi/lxzE9WX5jE4/0.jpg)](https://youtu.be/lxzE9WX5jE4)
+[![SSHแล้วขึ้นError!!](https://img.youtube.com/vi/KI_8PZNSW2o/0.jpg)](https://youtu.be/KI_8PZNSW2o)
 
 [![Subscribe](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?style=for-the-badge&label=กดติดตามช่องของเรา&logo=youtube&color=red)](https://youtube.com/@ittraining2498)
 
