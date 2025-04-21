@@ -33,14 +33,17 @@
   
 ## 📺 ตัวอย่างวิดีโอจากช่องของเรา
 ### วิดีโอมาใหม่ ล่าสุด
-[![SSHแล้วขึ้นError!!](https://img.youtube.com/vi/puHX5KehvwQ/0.jpg)](https://youtu.be/puHX5KehvwQ)
+[![SSHแล้วขึ้นError!!](https://img.youtube.com/vi/puHX5KehvwQ/0.jpg)](https://youtu.be/puHX5KehvwQ) 
+
+## วิดีโอก่อนหน้า
+👉 [ดาวน์โหลด Vmware Esxi8.x ฟรีจาก ฺฺBroadcom](https://www.youtube.com/watch?v=KI_8PZNSW2o&t=3s)
 
 [![Subscribe](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?style=for-the-badge&label=กดติดตามช่องของเรา&logo=youtube&color=red)](https://youtube.com/@ittraining2498)
 
 > 🎥 รวมวิดีโอเทคนิค System Engineer,DevOps, Server, CyberSecurity สำหรับผู้เริ่มต้นและมืออาชีพ  
 > 🎓 เรียนฟรีผ่าน YouTube ได้ทันที หรือสมัครคอร์สเรียนแบบเต็มรูปแบบ   
 > 🎬 **ดูวิดีโอสอนฟรีกว่า 200 ตอน** บนช่องของเรา  
-👉 [กดติดตามที่นี่](https://youtube.com/@ittraining2498)
+👉[กดติดตามที่นี่](https://youtube.com/@ittraining2498)
 <!--
 [![ผู้ติดตาม](https://img.shields.io/github/followers/ittraining2498?label=ผู้ติดตาม&logo=github&style=for-the-badge&color=brightgreen)](https://github.com/ittraining2498?tab=followers)
 -->
