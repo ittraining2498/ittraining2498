@@ -57,7 +57,7 @@
 
 ![เปิดให้โหลดฟรีแล้ววันนี้](https://img.shields.io/badge/เปิดให้ชมฟรีแล้ววันนี้!-Yes-blue?style=for-the-badge&logo=readthedocs)
 
-<img src="https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=for-the-badge&logo=clouddownload" alt="ดาวน์โหลด">
+<!-- <img src="https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=for-the-badge&logo=clouddownload" alt="ดาวน์โหลด"> -->
 
 <!-- อีกแบบ
 <img src="https://img.shields.io/badge/เปิดให้ชมฟรีแล้ววันนี้!-Yes-blue?style=for-the-badge&logo=github" alt="เปิดให้โหลดฟรีแล้ววันนี้">
@@ -83,10 +83,9 @@
 | 8 |  แบตซ์ไฟล์ตรวจสอบรายละเอียดคอมพิวเตอร์ | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=bacthfile)](https://drive.google.com/file/d/1jiVAF4ADFNGLKa0ZVlj7uePiIA7HKF5I/view?usp=sharing) |
 | 9 | แบตซ์ไฟล์ Export เป็น txt | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=batchfile)](https://drive.google.com/file/d/1aN_n9SnUbNPF7sW0Tkvj-TPXNa0siIEL/view?usp=sharing) |
 | 10 |  แบตซ์ไฟล์ Export รายละเอียดคอมพิวเตอร์เป็น TXT | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=batchfile)](https://drive.google.com/file/d/127psEMyLORO4P1L-7Y-aWmKihBHLx6NO/view?usp=sharing) |
-| 11 |  คำสั่งลีนุกซ์บน PowerShell | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=powershell)](https://drive.google.com/file/d/1rodRgYtJd_r6oG6TOv2abDC2FneMCOdJ/view?usp=sharing) |
+| 11 |  คำสั่งลีนุกซ์บน PowerShell | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/file/d/1ah668UfjTp8wIcht49kl5aV7AKzQRQDl/view?usp=drive_link) |
 | 12 |  ติดตั้ง VM Tools บน Ubuntu Server | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1hx8NFsDphVvroL-j0yWBKbOqSWNTkoTf/view?usp=sharing) |
 | 13 |  ติดตั้งลีนุกซ์ Ubuntu Server 24.04LTS | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1kt9K4oY396kI9X-mIJyIkiKn2cytkrpI/view?usp=sharing) |
-
 
 
 
