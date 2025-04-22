@@ -188,7 +188,7 @@
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
 | ![image](https://skillicons.dev/icons?i=gitlab) GitLab CI/CD | [รายละเอียด](../../../CourseOutline/tree/main/35_คอร์ส%20GitLab%20CICD%20PipeLine) | วิดีโอ, ~~ผ่านซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็วนี้</span> [▶️](https://youtu.be/xxx) | [![ลงทะเบียนคลิกที่นี่](https://img.shields.io/badge/ลงทะเบียน-คลิกที่นี่-blue?style=flat-square&logo=googleforms&logoColor=white)](https://your-register-link.com) |
-| ![image](https://skillicons.dev/icons?i=github) GitHub Actions | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | วิดีโอ, ~~ผ่านซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็วนี้</span> [▶️](https://youtu.be/xxx) | [![ลงทะเบียนคลิกที่นี่](https://img.shields.io/badge/ลงทะเบียน-คลิกที่นี่-blue?style=flat-square&logo=googleforms&logoColor=white)](https://your-register-link.com) |
+| ![image](https://skillicons.dev/icons?i=github) GitHub | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | วิดีโอ, ~~ผ่านซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็วนี้</span> [▶️](https://youtu.be/xxx) | [![ลงทะเบียนคลิกที่นี่](https://img.shields.io/badge/ลงทะเบียน-คลิกที่นี่-blue?style=flat-square&logo=googleforms&logoColor=white)](https://your-register-link.com) |
 | ![image](https://skillicons.dev/icons?i=jenkins) Jenkins  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 
 
