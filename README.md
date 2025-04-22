@@ -118,9 +118,9 @@
 | ![image](https://skillicons.dev/icons?i=redhat) Red Hat(เตรียสอบRHCSA-I) | [รายละเอียด](https://github.com/ittraining2498/CourseOutline/tree/main/02_คอร์สลีนุกซ์%20Red%20Hat%20(เตรียมสอบ%20RHCSA-I ) | วิดีโอ, ~~ออนไซต์~~| ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 | ![image](https://skillicons.dev/icons?i=redhat) เตรียมสอบ RHCSA  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 | ![image](https://skillicons.dev/icons?i=redhat) เน้นติวสอบ RHCSA  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
-| Oracle Linux9.x | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
-| Debian | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
-| Suse Enterprise | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/oraclelinux1.svg" width="50" /> Oracle Linux9.x | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
+| <img src="https://www.debian.org/logos/openlogo.svg" width=40>  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/suse.svg" width="50" /> Suse Enterprise | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 | ![image](https://skillicons.dev/icons?i=windows) Windows Server 2022 | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 | ![image](https://skillicons.dev/icons?i=windows) Windows Server 2025 | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 ---
@@ -131,12 +131,12 @@
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| Zabbix Monitoring | [รายละเอียด](../../../CourseOutline/tree/main/24_คอร์ส%20Zabbix%20Monitoring) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Zabbix Monitoring ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/25_คอร์ส%20Zabbix%20Monitoring%20ระดับ%20Advance) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| ![image](https://skillicons.dev/icons?i=grafana) Grafana Monitoring | [รายละเอียด](../../../CourseOutline/tree/main/26_คอร์ส%20Grafana%20Monitoring%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| ![image](https://skillicons.dev/icons?i=grafana) Grafana Monitoring ระดับ Avance | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/zabbix.svg" width="85" /> Zabbix Monitoring | [รายละเอียด](../../../CourseOutline/tree/main/24_คอร์ส%20Zabbix%20Monitoring) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/zabbix.svg" width="85" /> Zabbix Monitoring ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/25_คอร์ส%20Zabbix%20Monitoring%20ระดับ%20Advance) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/grafana.svg" width="50" /> Grafana Monitoring | [รายละเอียด](../../../CourseOutline/tree/main/26_คอร์ส%20Grafana%20Monitoring%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/grafana.svg" width="50" /> Grafana Monitoring ระดับ Avance | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | ![image](https://skillicons.dev/icons?i=prometheus) Prometheus | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Graylog | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/graylog.svg" width="65" /> Graylog | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 
 
 ---
@@ -165,7 +165,7 @@
 | ![image](https://skillicons.dev/icons?i=postgresql) PostgreSQL ระดับ Advance | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Oracle Database Administrator ระดับ Begining | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Oracle Database Administrator ระดับ Advance | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Database Administator ด้วย MSSQL | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/mssql.svg" width="50" /> Database Administator ด้วย MSSQL | ⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 ---
 
 ### 💻 หมวดระบบ Automation & Script
