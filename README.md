@@ -79,7 +79,8 @@
 
 
 > 🔓 **เอกสารนี้เปิดให้ดาวน์โหลดฟรี** โดยไม่ต้องสมัครสมาชิก  
-> 📥 [คลิกที่นี่เพื่อดาวน์โหลดเอกสาร PDF](https://your-link.com)
+> <!--📥 [คลิกที่นี่เพื่อดาวน์โหลดเอกสาร PDF](https://drive.google.com/file/d/1C4CdnG4op5IZj9eON8_112JA_yATN75G/view?usp=sharing) -->
+> 📥 [คลิกที่นี่เพื่อดาวน์โหลดไฟล์ ISO WINDOWS SERVER 2025](https://drive.google.com/file/d/1C4CdnG4op5IZj9eON8_112JA_yATN75G/view?usp=sharing)
 > 
 [![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
 
