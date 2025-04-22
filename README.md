@@ -80,11 +80,15 @@
 -->
 👇
 ## 📘 หัวข้อมีอะไรบ้าง <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ittraining2498) -->
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing)
+
+<!--ตัวอย่าง
+| ✅ | การติดตั้ง Grafana บน Ubuntu Server 22.04 | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1L1gj3soeoZXK5zXBZ1bX2iLQinzdWMQD/view?usp=sharing) |
+-->
 
 | ลำดับ | หัวข้อ | หมายเหตุ | ดาวน์โหลด |
 |-------|--------|-----------|------------|
-| ✅ | การติดตั้ง Grafana บน Ubuntu Server 22.04 | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1L1gj3soeoZXK5zXBZ1bX2iLQinzdWMQD/view?usp=sharing) |
-| ✅ | การติดตั้ง Grafana บน Docker | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=grafana)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing) |
+| ✅ | การติดตั้ง Grafana บน Docker | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing)
 | ✅ | ติดตั้ง Windows Server 2025 บน VMware Workstation | 🔓 เปิดให้โหลดฟรีช่วงนี้ | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="16" /> [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/file/d/1ah668UfjTp8wIcht49kl5aV7AKzQRQDl/view?usp=drive_link) |
 | ✅ | หัวข้อ5 - ติดตั้ง Zabbix6.4 ด้วย Ubuntu Server+PostgreSQL+Nginx | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=zabbix)](https://drive.google.com/file/d/14DtnnNDcfSebEq1UrSsnxko7Q_hsSMQ2/view?usp=sharing) |
 | ✅ | EP44 จัดการไฟล์ และ ไดเรคทอรีบนลีนุกซ์ Ubuntu Desktop | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/16ztzgoqGK34xy6FzTl5nwmyu5nyJHtlq/view?usp=sharing) |
