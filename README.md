@@ -79,7 +79,7 @@
 [![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
 -->
 👇
-## 📘 หัวข้อมีอะไรบ้าง [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ittraining2498)
+## 📘 หัวข้อมีอะไรบ้าง <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ittraining2498) -->
 
 | ลำดับ | หัวข้อ | หมายเหตุ | ดาวน์โหลด |
 |-------|--------|-----------|------------|
