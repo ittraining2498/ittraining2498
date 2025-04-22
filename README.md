@@ -55,8 +55,14 @@
 
 ## 🔐 เอกสาร,วิดีโอ ดูฟรี โหลดฟรี
 
-[![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
+![เปิดให้โหลดฟรีแล้ววันนี้](https://img.shields.io/badge/เปิดให้ชมฟรีแล้ววันนี้!-Yes-blue?style=for-the-badge&logo=github)
 
+<!-- แสดงลิงค์เป็นรูปมือ
+[![เปิดให้โหลดฟรีแล้ววันนี้](https://img.shields.io/badge/เปิดให้ชมฟรีแล้ววันนี้!-Yes-blue?style=for-the-badge&logo=github)]
+-->
+<!--
+[![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
+-->
 ## 📘 หัวข้อมีอะไรบ้าง?
 
 | ลำดับ | หัวข้อ | หมายเหตุ | ดาวน์โหลด |
