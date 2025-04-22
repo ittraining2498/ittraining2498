@@ -69,23 +69,24 @@
 <!--
 [![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
 -->
+👇
 ## 📘 หัวข้อมีอะไรบ้าง?
 
 | ลำดับ | หัวข้อ | หมายเหตุ | ดาวน์โหลด |
 |-------|--------|-----------|------------|
-| 1 | การติดตั้ง Grafana บน Ubuntu Server 22.04 | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1L1gj3soeoZXK5zXBZ1bX2iLQinzdWMQD/view?usp=sharing) |
-| 2 | การติดตั้ง Grafana บน Docker | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=grafana)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing) |
-| 3 | ติดตั้ง Windows Server 2025 บน VMware Workstation | 🔓 เปิดให้โหลดฟรีช่วงนี้ | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="16" /> [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/file/d/1ah668UfjTp8wIcht49kl5aV7AKzQRQDl/view?usp=drive_link) |
-| 4 | หัวข้อ5 - ติดตั้ง Zabbix6.4 ด้วย Ubuntu Server+PostgreSQL+Nginx | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=zabbix)](https://drive.google.com/file/d/14DtnnNDcfSebEq1UrSsnxko7Q_hsSMQ2/view?usp=sharing) |
-| 5 | EP44 จัดการไฟล์ และ ไดเรคทอรีบนลีนุกซ์ Ubuntu Desktop | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/16ztzgoqGK34xy6FzTl5nwmyu5nyJHtlq/view?usp=sharing) |
-| 6 | ติดตั้ง Zabbix Agent บน Linux | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=zabbix)](https://drive.google.com/file/d/1ALpQIKpzYIjw0GJBEkMxi_NrBc9mHz9y/view?usp=sharing) |
-| 7 | Shell Script ตรวจสอบดิสก์บนลีนุกซ์ | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=shellscript)](https://drive.google.com/file/d/1rLlNPBSiHZBCYei0Dez_qNU8Eiyauzil/view?usp=sharing) |
-| 8 |  แบตซ์ไฟล์ตรวจสอบรายละเอียดคอมพิวเตอร์ | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=bacthfile)](https://drive.google.com/file/d/1jiVAF4ADFNGLKa0ZVlj7uePiIA7HKF5I/view?usp=sharing) |
-| 9 | แบตซ์ไฟล์ Export เป็น txt | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=batchfile)](https://drive.google.com/file/d/1aN_n9SnUbNPF7sW0Tkvj-TPXNa0siIEL/view?usp=sharing) |
-| 10 |  แบตซ์ไฟล์ Export รายละเอียดคอมพิวเตอร์เป็น TXT | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=batchfile)](https://drive.google.com/file/d/127psEMyLORO4P1L-7Y-aWmKihBHLx6NO/view?usp=sharing) |
-| 11 |  คำสั่งลีนุกซ์บน PowerShell | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/file/d/1ah668UfjTp8wIcht49kl5aV7AKzQRQDl/view?usp=drive_link) |
-| 12 |  ติดตั้ง VM Tools บน Ubuntu Server | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1hx8NFsDphVvroL-j0yWBKbOqSWNTkoTf/view?usp=sharing) |
-| 13 |  ติดตั้งลีนุกซ์ Ubuntu Server 24.04LTS | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1kt9K4oY396kI9X-mIJyIkiKn2cytkrpI/view?usp=sharing) |
+| ✅ | การติดตั้ง Grafana บน Ubuntu Server 22.04 | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1L1gj3soeoZXK5zXBZ1bX2iLQinzdWMQD/view?usp=sharing) |
+| ✅ | การติดตั้ง Grafana บน Docker | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=grafana)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing) |
+| ✅ | ติดตั้ง Windows Server 2025 บน VMware Workstation | 🔓 เปิดให้โหลดฟรีช่วงนี้ | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="16" /> [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/file/d/1ah668UfjTp8wIcht49kl5aV7AKzQRQDl/view?usp=drive_link) |
+| ✅ | หัวข้อ5 - ติดตั้ง Zabbix6.4 ด้วย Ubuntu Server+PostgreSQL+Nginx | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=zabbix)](https://drive.google.com/file/d/14DtnnNDcfSebEq1UrSsnxko7Q_hsSMQ2/view?usp=sharing) |
+| ✅ | EP44 จัดการไฟล์ และ ไดเรคทอรีบนลีนุกซ์ Ubuntu Desktop | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/16ztzgoqGK34xy6FzTl5nwmyu5nyJHtlq/view?usp=sharing) |
+| ✅ | ติดตั้ง Zabbix Agent บน Linux | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=zabbix)](https://drive.google.com/file/d/1ALpQIKpzYIjw0GJBEkMxi_NrBc9mHz9y/view?usp=sharing) |
+| ✅ | Shell Script ตรวจสอบดิสก์บนลีนุกซ์ | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=shellscript)](https://drive.google.com/file/d/1rLlNPBSiHZBCYei0Dez_qNU8Eiyauzil/view?usp=sharing) |
+| ✅ |  แบตซ์ไฟล์ตรวจสอบรายละเอียดคอมพิวเตอร์ | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=bacthfile)](https://drive.google.com/file/d/1jiVAF4ADFNGLKa0ZVlj7uePiIA7HKF5I/view?usp=sharing) |
+| ✅ | แบตซ์ไฟล์ Export เป็น txt | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=batchfile)](https://drive.google.com/file/d/1aN_n9SnUbNPF7sW0Tkvj-TPXNa0siIEL/view?usp=sharing) |
+| ✅ |  แบตซ์ไฟล์ Export รายละเอียดคอมพิวเตอร์เป็น TXT | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=batchfile)](https://drive.google.com/file/d/127psEMyLORO4P1L-7Y-aWmKihBHLx6NO/view?usp=sharing) |
+| ✅ |  คำสั่งลีนุกซ์บน PowerShell | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/file/d/1ah668UfjTp8wIcht49kl5aV7AKzQRQDl/view?usp=drive_link) |
+| ✅ |  ติดตั้ง VM Tools บน Ubuntu Server | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1hx8NFsDphVvroL-j0yWBKbOqSWNTkoTf/view?usp=sharing) |
+| ✅ |  ติดตั้งลีนุกซ์ Ubuntu Server 24.04LTS | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1kt9K4oY396kI9X-mIJyIkiKn2cytkrpI/view?usp=sharing) |
 
 
 
