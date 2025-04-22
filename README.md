@@ -62,8 +62,8 @@
 | ลำดับ | หัวข้อ | หมายเหตุ | ดาวน์โหลด |
 |-------|--------|-----------|------------|
 | 1 | การติดตั้ง Grafana บน Ubuntu Server 22.04 | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1L1gj3soeoZXK5zXBZ1bX2iLQinzdWMQD/view?usp=sharing) |
-| 2 | การติดตั้ง Grafana บน Docker | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=grafana)](https://drive.google.com/...) |
-| 3 | ติดตั้ง Windows Server 2025 บน VMware Workstation | 🔓 เปิดให้โหลดฟรีช่วงนี้ | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="16" /> [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/...) |
+| 2 | การติดตั้ง Grafana บน Docker | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=grafana)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing) |
+| 3 | ติดตั้ง Windows Server 2025 บน VMware Workstation | 🔓 เปิดให้โหลดฟรีช่วงนี้ | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="16" /> [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=microsoft)](https://drive.google.com/file/d/1ah668UfjTp8wIcht49kl5aV7AKzQRQDl/view?usp=drive_link) |
 | 4 | หัวข้อ5 - ติดตั้ง Zabbix6.4 ด้วย Ubuntu Server+PostgreSQL+Nginx | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=zabbix)](https://drive.google.com/...) |
 | 5 | EP44 จัดการไฟล์ และ ไดเรคทอรีบนลีนุกซ์ Ubuntu Desktop | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/...) |
 | 6 | ติดตั้ง Zabbix Agent บน Linux | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=zabbix)](https://drive.google.com/...) |
