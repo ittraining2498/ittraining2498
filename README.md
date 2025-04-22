@@ -1,4 +1,11 @@
 # 🏫 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center
+<!--
+![Proxmox](https://raw.githubusercontent.com/ittraining2498/images/main/proxmox.png)
+-->
+<!--
+| ![Proxmox](https://raw.githubusercontent.com/ittraining2498/images/main/proxmox.png) Docker System Engineer | [รายละเอียด](../../../CourseOutline/tree/main/42_คอร์ส%20Docker%20System%20Engineer) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ เร็ว ๆ นี้ [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+-->
+
 
 > 📌 **เปิดให้บริการอย่างเป็นทางการเมื่อ เมษายน 2568**  
 > ฝากติดตาม และแชร์ต่อเพื่อสนับสนุนกันครับ 🙏
@@ -138,7 +145,7 @@
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| Proxmox VE7 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/11_คอร์ส%20Proxmox%20VE7%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/proxmox.png" width="35" /> Proxmox VE7 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/11_คอร์ส%20Proxmox%20VE7%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Proxmox VE7 ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/12_คอร์ส%20Proxmox%20VE7%20ระดับ%20Advance) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Proxmox VE8 ระดับ Begining | [รายละเอียด](../../../CourseOutline/tree/main/13_คอร์ส%20Proxmox%20VE8%20ระดับ%20Begining) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | Proxmox VE8 ระดับ Advance | [รายละเอียด](../../../CourseOutline/tree/main/14_คอร์ส%20Proxmox%20VE8%20ระดับ%20Advance) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
