@@ -193,21 +193,21 @@
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| ![image](https://skillicons.dev/icons?i=aws) AWS | [รายละเอียด](../../../CourseOutline/tree/main/43_คอร์ส%20AWS) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| ![image](https://skillicons.dev/icons?i=aws)  | [รายละเอียด](../../../CourseOutline/tree/main/43_คอร์ส%20AWS) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | ![image](https://skillicons.dev/icons?i=azure) Azure | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Alibaba  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Huawei Cloud  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/alibaba.svg" width="145" />  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/huawei-seeklogo.png" width="55" />  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 ---
 
 ### 💻 หมวด SIEM 
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
 |-------|--------|----------|----------|----------|
-| Splunk Fundamental | [รายละเอียด](../../../CourseOutline/tree/main/17_คอร์ส%20Splunk%20Fundamental) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Splunk system Engineer ระดับ Begining | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Splunk System Engineer ระดับ Advance  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Splunk Data Engineer ระดับ Begining  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
-| Splunk Data Engineer ระดับ Advance  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
+| <img src="https://raw.githubusercontent.com/ittraining2498/images/main/splunk.svg" width="85" /> Fundamental | [รายละเอียด](../../../CourseOutline/tree/main/17_คอร์ส%20Splunk%20Fundamental) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+|  <img src="https://raw.githubusercontent.com/ittraining2498/images/main/splunk.svg" width="85" /> System Engineer ระดับ Begining | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+|  <img src="https://raw.githubusercontent.com/ittraining2498/images/main/splunk.svg" width="85" /> System Engineer ระดับ Advance  | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+|  <img src="https://raw.githubusercontent.com/ittraining2498/images/main/splunk.svg" width="85" /> Data Engineer ระดับ Begining  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
+|  <img src="https://raw.githubusercontent.com/ittraining2498/images/main/splunk.svg" width="85" /> Data Engineer ระดับ Advance  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 ---
 
 ### 💻 หมวด เว็บเซิร์ฟเวอร์ & เว็บไซต์ 
@@ -216,10 +216,10 @@
 |-------|--------|----------|----------|----------|
 | ทำเว็บไซต์ไม่ต้องเขียนโปรแกรมด้วยWordPress+NginxบนServer | [รายละเอียด](../../../CourseOutline/tree/main/32_คอร์สทำเว็บไม่ต้องเขียนโปรแกรม%20WordPress+Nginx%20บน%20Server) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | ทำเว็บไซต์ไม่ต้องเขียนโปรแกรมด้วย WordPress+NginxบนAWS | [รายละเอียด](../../../CourseOutline/tree/main/33_คอร์สทำเว็บไม่ต้องเขียนโปรแกรม%20WordPress%2BNginx%20บน%20AWS) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
-| Nginx Performance Tuning  | [รายละเอียด](../../../CourseOutline/tree/main/34_คอร์ส%20Nginx%20Performance%20Tuning) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
+| ![image](https://skillicons.dev/icons?i=nginx) Nginx Performance Tuning  | [รายละเอียด](../../../CourseOutline/tree/main/34_คอร์ส%20Nginx%20Performance%20Tuning) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 | ![image](https://skillicons.dev/icons?i=nginx) Nginx ระดับ Begining  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 | ![image](https://skillicons.dev/icons?i=nginx) Nginx ระดับ Advance  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
-| Apache |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
+|  <img src="https://raw.githubusercontent.com/ittraining2498/images/main/apache.svg" width="125" /> ระดับ Begining |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 ---
 
 
