@@ -38,6 +38,8 @@
 ## วิดีโอก่อนหน้า
 👉 [วิธีและขั้นตอนดาวน์โหลด Vmware Esxi8.x ฟรีจาก ฺฺBroadcom](https://www.youtube.com/watch?v=KI_8PZNSW2o&t=3s)
 
+📥 [คลิกที่นี่เพื่อดาวน์โหลดไฟล์ ISO Vmware Esxi8.x](https://drive.google.com/file/d/114wIMTMloFFh65AMbkhgobrjMZ7bKBOR/view?usp=sharing)
+
 [![Subscribe](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?style=for-the-badge&label=กดติดตามช่องของเรา&logo=youtube&color=red)](https://youtube.com/@ittraining2498)
 
 > 🎥 รวมวิดีโอเทคนิค System Engineer,DevOps, Server, CyberSecurity สำหรับผู้เริ่มต้นและมืออาชีพ  
