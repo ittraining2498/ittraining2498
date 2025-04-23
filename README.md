@@ -40,9 +40,11 @@
   
 ## 📺 ตัวอย่างวิดีโอจากช่องของเรา
 ### วิดีโอมาใหม่ ล่าสุด
-[![SSHแล้วขึ้นError!!](https://img.youtube.com/vi/puHX5KehvwQ/0.jpg)](https://youtu.be/puHX5KehvwQ) 
+[![ติดตั้งEsxi8ที่โหลดฟรี!!](https://img.youtube.com/vi/jZxXSPdiUp4/0.jpg)](https://youtu.be/jZxXSPdiUp4) 
 
 ## วิดีโอก่อนหน้า
+👉 [ใช้ nmap บน Windows กันบ้าง | ติดตั้ง nmap เสร็จแล้วอย่าลืม Reboot Windows | สแกน port ด้วย nmap](https://www.youtube.com/watch?v=puHX5KehvwQ&t=19s) 
+
 👉 [วิธีและขั้นตอนดาวน์โหลด Vmware Esxi8.x ฟรีจาก ฺฺBroadcom](https://www.youtube.com/watch?v=KI_8PZNSW2o&t=3s)
 
 📥 [คลิกที่นี่เพื่อดาวน์โหลดไฟล์ ISO Vmware Esxi8.x](https://drive.google.com/file/d/114wIMTMloFFh65AMbkhgobrjMZ7bKBOR/view?usp=sharing)
