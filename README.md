@@ -1,16 +1,22 @@
-# 🏫 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center
 <!--
+# 🏫 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center
 ![Proxmox](https://raw.githubusercontent.com/ittraining2498/images/main/proxmox.png)
 -->
+
 <!--
 | ![Proxmox](https://raw.githubusercontent.com/ittraining2498/images/main/proxmox.png) Docker System Engineer | [รายละเอียด](../../../CourseOutline/tree/main/42_คอร์ส%20Docker%20System%20Engineer) | วิดีโอ, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ เร็ว ๆ นี้ [▶️](https://youtu.be/xxx) | ลงทะเบียน |
 -->
 
+<h1 align="center">🎓 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center</h1>
 
-> 📌 **เปิดให้บริการอย่างเป็นทางการเมื่อ เมษายน 2568**  
-> ฝากติดตาม และแชร์ต่อเพื่อสนับสนุนกันครับ 🙏
+<p align="center">
+📌 <strong>เปิดให้บริการอบรมอย่างเป็นทางการเมื่อ เมษายน 2568</strong><br>
+💡 เราเน้นสอนจากประสบการณ์จริง พร้อมสื่อที่เข้าใจง่าย เหมาะสำหรับผู้เริ่มต้นจนถึงระดับมืออาชีพ 🙌
+</p>
 
-## ➡️ ช่องทางติดตาม,ติดต่อ 
+---
+<!--
+## 📱ช่องทางติดตาม
 <a href="https://www.facebook.com/linuxsplunkproxmox" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -33,11 +39,68 @@
     <img src="https://img.shields.io/badge/Line@-008000?style=for-the-badge&logo=line&logoColor=white"/>
   </a>
 <br>
+-->
 
-  <a href="https://github.com/ittraining2498">
-  <img src="https://komarev.com/ghpvc/?username=ittraining2498&style=flat-square&color=blue" alt="ittraining2498"/>
-  </a>
+## 📲 ช่องทางติดตาม / ติดต่อ
 
+| แพลตฟอร์ม | ช่องทาง | กดติดตาม |
+|-----------|---------|-----------|
+| 🔵 Facebook (หลัก) | ไอทีเทรนนิ่ง | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/linuxsplunkproxmox)  |
+| 🔵 Facebook Page1 | เพจ"ไอทีเทรนนิ่งเซ็นเตอร์" | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=100077874567872) |
+| 🔵 Facebook Page2 | เพจ"อยากทำเซิร์ฟเวอร์เป็นมาทางนี้" | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/ittraining2498) |
+| 🔵 Facebook Page3 | เพจ"ไลฟ์สดกับไอทีเทรนนิ่ง" | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=61573874672985) |
+| 🔵 Facebook Group | "กลุ่มฟรี แลกเปลี่ยน พูดคุย" | [![Facebook](https://img.shields.io/badge/กดเข้ากลุ่ม>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/groups/linuxskill) |
+| 🎬 YouTube | ช่องสอน |  [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ittraining2498) |
+| 🟢 LINE Official | พูดคุย / แจ้งเตือน / โปรพิเศษ | [![LINE](https://img.shields.io/badge/Line@-00C300?style=for-the-badge&logo=line&logoColor=white)](https://lin.ee/n5o31g8) |
+| 🌐 เว็บไซต์ | หลักสูตร / รายละเอียด | [https://www.ittraining.co.th](https://www.ittraining.co.th) |
+
+
+<!--
+แบบที่ 1: ไอคอน + คำชวนกด
+[![Facebook](https://img.shields.io/badge/ติดตามเราที่-Facebook-blue?logo=facebook&style=for-the-badge)](https://facebook.com/yourpage)
+
+แบบที่ 2: ไอคอนอย่างเดียว แต่มี tooltip
+<a href="https://facebook.com/yourpage" target="_blank" title="ติดตามเราบน Facebook">
+  <img src="https://img.shields.io/badge/Facebook-Page-blue?logo=facebook&style=for-the-badge">
+</a>
+-->
+<!--
+<a href="https://www.facebook.com/groups/linuxskill" target="_blank" title="คลิกเข้ากลุ่มด้วยกันน่ะ Facebook">
+  <img src="https://img.shields.io/badge/Facebook-Page1-blue?logo=facebook&style=for-the-badge">
+</a>
+-->
+ 👁️ จำนวนผู้เข้าชม: ![views](https://komarev.com/ghpvc/?username=ittraining2498&color=blue)
+
+<!--
+<a href="https://youtube.com/@ittraining2498" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge" />
+</a>
+-->
+
+<!--
+## 📱 ช่องทางติดตาม / ติดต่อ
+
+- 🔵 **Facebook (เฟสหลัก)**: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/linuxsplunkproxmox)
+- 🔵 **Facebook (เพจ"ไอทีเทรนนิ่งเซ็นเตอร์")**: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077874567872)
+- 🔵 **Facebook (เพจ"อยากทำเซิร์ฟเวอร์เป็นมาทางนี้")**: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ittraining2498)
+- 🔵 **Facebook (เพจ"ไลฟ์สดกับไอทีเทรนนิ่ง")**: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61573874672985)
+- 🔵 **Facebook (กลุ่มเข้าฟรีพูดคุยแลกเปลี่ยน)**: [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/groups/linuxskill)
+- 🎬 **YouTube ช่องสอน,ดูฟรี,ลงทะเบียน**: [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ittraining2498)
+- 🟢 **LINE Official**: [![LINE](https://img.shields.io/badge/Line@-00C300?style=for-the-badge&logo=line&logoColor=white)](https://lin.ee/n5o31g8)
+- 🌐 **Website**: [https://www.ittraining.co.th](https://www.ittraining.co.th)
+-->
+
+<!--
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/linuxsplunkproxmox)
+
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ittraining2498)
+-->
+
+<!--
+<p align="center">
+  👁️‍🗨️ จำนวนผู้เข้าชม: <img src="https://komarev.com/ghpvc/?username=ittraining2498&color=blue" alt="view count"/>
+</p>
+-->
   
 ## 🆕 วิดีโอใหม่มาแล้ว! 🔥 อัปเดตล่าสุด [วันนี้]
 
