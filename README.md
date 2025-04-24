@@ -49,12 +49,14 @@
 | 🔵 Facebook Page1 | เพจ"ไอทีเทรนนิ่งเซ็นเตอร์" | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=100077874567872) |
 | 🔵 Facebook Page2 | เพจ"อยากทำเซิร์ฟเวอร์เป็นมาทางนี้" | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/ittraining2498) |
 | 🔵 Facebook Page3 | เพจ"ไลฟ์สดกับไอทีเทรนนิ่ง" | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=61573874672985) |
-| 🔵 Facebook Group | "กลุ่มฟรี แลกเปลี่ยน พูดคุย" | [![Facebook](https://img.shields.io/badge/กดเข้ากลุ่ม>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/groups/linuxskill) |
+| 🔵 Facebook Group | "กลุ่มฟรี แลกเปลี่ยน พูดคุย" | [![Facebook](https://img.shields.io/badge/กดเพื่อติดตามเรา>-Facebook-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/groups/linuxskill) |
 | 🎬 YouTube | ช่องสอน |  [![YOUTUBE](https://img.shields.io/badge/กดเพื่อติดตามเรา%3E-Youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@ittraining2498) |
-| 🟢 LINE OpenChat | กลุ่ม: เรียนฟรี AWS เบื้องต้น | [![เข้าร่วม](https://img.shields.io/badge/เข้าร่วมกลุ่ม-AWSเรียนฟรีเบื้องต้น-00c300?logo=line&logoColor=white&style=for-the-badge)](https://lin.ee/n5o31g8x) |
-| 🟢 LINE OpenChat | เรียนฟรี AWS เบื้องต้น |  [![LINE](https://img.shields.io/badge/กดเพิ่มเพื่อน%3E-LINE-00c300?logo=line&logoColor=white&style=for-the-badge)](https://line.me/ti/g2/YoiM7U9VJNLFw0ZOE5d-vUcqs_0FVMhChyQccw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) |
+| 🟢 LINE OpenChat | กลุ่ม: เรียนฟรี AWS เบื้องต้น | [![เข้าร่วม](https://img.shields.io/badge/กดเพิ่มเพื่อน%3E-Line-00c300?logo=line&logoColor=white&style=for-the-badge)](https://line.me/ti/g2/YoiM7U9VJNLFw0ZOE5d-vUcqs_0FVMhChyQccw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) |
+| 🟢 LINE OpenChat | กลุ่ม: วิศวกรไอที System Engineer | [![LINE](https://img.shields.io/badge/กดเพิ่มเพื่อน%3E-LINE-00c300?logo=line&logoColor=white&style=for-the-badge)](https://line.me/ti/g2/HTL3vyIiDfCGqaPehx0wPz_JH7zNOvkHxio7uw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) |
+| 🟢 LINE OpenChat | กลุ่ม: 🪟 Windows Server เน้นสคริปต์,PowerShell | [![เข้าร่วม](https://img.shields.io/badge/กดเพิ่มเพื่อน%3E-Line-00c300?logo=line&logoColor=white&style=for-the-badge)](https://line.me/ti/g2/5Oek0CudSKLOUPQX-USEejx5GeikPWheYZXSZw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) |
 | ⚫ TiKToK | ไอทีเทรนนิ่งเซ็นเตอร์ | [![TikTok](https://img.shields.io/badge/กดติดตามเรา%3E-TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@ittraining2498) |
 | 🌐 เว็บไซต์ | หลักสูตร / รายละเอียด | [https://www.ittraining.co.th](https://www.ittraining.co.th) |
+
 
 
 <!--
