@@ -37,11 +37,8 @@
   <a href="https://github.com/ittraining2498">
   <img src="https://komarev.com/ghpvc/?username=ittraining2498&style=flat-square&color=blue" alt="ittraining2498"/>
   </a>
-  
-## 📺 ตัวอย่างวิดีโอจากช่องของเรา
-### วิดีโอมาใหม่ ล่าสุด [วันนี้]
-[![เปลี่ยนรหัสผ่านของ root บน iDRAC | งานหลังบ้านสำหรับผู้ดูแลระบบเซิร์ฟเวอร์ ](https://img.youtube.com/vi/8icfId9I4T4/0.jpg)](https://youtu.be/8icfId9I4T4) 
 
+  
 ## 🆕 วิดีโอใหม่มาแล้ว! 🔥 อัปเดตล่าสุด [วันนี้]
 
 🎬 **เนื้อหา:** เปลี่ยนรหัสผ่านของ root บน iDRAC | งานหลังบ้านสำหรับผู้ดูแลระบบเซิร์ฟเวอร์  
