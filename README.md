@@ -39,15 +39,31 @@
   </a>
   
 ## 📺 ตัวอย่างวิดีโอจากช่องของเรา
-### วิดีโอมาใหม่ ล่าสุด
-[![ติดตั้งEsxi8ที่โหลดฟรี!!](https://img.youtube.com/vi/jZxXSPdiUp4/0.jpg)](https://youtu.be/jZxXSPdiUp4) 
+### วิดีโอมาใหม่ ล่าสุด [วันนี้]
+[![เปลี่ยนรหัสผ่านของ root บน iDRAC | งานหลังบ้านสำหรับผู้ดูแลระบบเซิร์ฟเวอร์ ](https://img.youtube.com/vi/8icfId9I4T4/0.jpg)](https://youtu.be/8icfId9I4T4) 
 
-## วิดีโอก่อนหน้า
-👉 [ใช้ nmap บน Windows กันบ้าง | ติดตั้ง nmap เสร็จแล้วอย่าลืม Reboot Windows | สแกน port ด้วย nmap](https://www.youtube.com/watch?v=puHX5KehvwQ&t=19s) 
+## 🆕 วิดีโอใหม่มาแล้ว! 🔥 อัปเดตล่าสุด [วันนี้]
 
-👉 [วิธีและขั้นตอนดาวน์โหลด Vmware Esxi8.x ฟรีจาก ฺฺBroadcom](https://www.youtube.com/watch?v=KI_8PZNSW2o&t=3s)
+🎬 **เนื้อหา:** เปลี่ยนรหัสผ่านของ root บน iDRAC | งานหลังบ้านสำหรับผู้ดูแลระบบเซิร์ฟเวอร์  
+📅 **อัปโหลด:** วันนี้ (อัปเดตล่าสุด)  
+<!-- ▶️ **ดูเลย:** [คลิกดูวิดีโอ](https://youtube.com/yourvideo) -->
+[![เปลี่ยนรหัสผ่านของ root บน iDRAC | งานหลังบ้านสำหรับผู้ดูแลระบบเซิร์ฟเวอร์ ](https://img.youtube.com/vi/8icfId9I4T4/0.jpg)](https://youtu.be/8icfId9I4T4) 
+> 💡 แนะนำ: กดติดตามช่องไว้ จะได้ไม่พลาดวิดีโอใหม่ทุกสัปดาห์!
+
+## 🔁 แนะนำดูวิดีโอก่อนหน้า
+
+1. 🎬 **ติดตั้ง Vmware Esxi8.x ที่โหลดฟรี แต่ละขั้นตอน STEP BY STEP**  
+   ▶️ [คลิกดู](https://www.youtube.com/watch?v=jZxXSPdiUp4&t=26s) – ติดตั้งแบบง่ายๆบน Vmware Esxi8.x
+
+2. 🎬 **ใช้ nmap บน Windows กันบ้าง | ติดตั้ง nmap เสร็จแล้วอย่าลืม Reboot Windows | สแกน port ด้วย nmap**  
+   ▶️ [คลิกดู](https://www.youtube.com/watch?v=puHX5KehvwQ&t=19s) – แบบ Step-by-step
+
+3. 🎬 **วิธีและขั้นตอนดาวน์โหลด Vmware Esxi8.x ฟรีจาก ฺฺBroadcom**  
+   ▶️ [คลิกดู](https://www.youtube.com/watch?v=KI_8PZNSW2o&t=3s) – สำหรับผู้เริ่มต้น
+   
 
 📥 [คลิกที่นี่เพื่อดาวน์โหลดไฟล์ ISO Vmware Esxi8.x](https://drive.google.com/file/d/114wIMTMloFFh65AMbkhgobrjMZ7bKBOR/view?usp=sharing)
+
 
 [![Subscribe](https://img.shields.io/youtube/channel/subscribers/UCr478a9wEWp7F7vrXX6z5qg?style=for-the-badge&label=กดติดตามช่องของเรา&logo=youtube&color=red)](https://youtube.com/@ittraining2498)
 
