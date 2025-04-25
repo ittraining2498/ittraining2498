@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=bookstack&logoColor=white" />
 </a>
 
-<a href="#รายชื่อคอร์สทั้งหม" title="เลื่อนไปดูรายชื่อคอร์สด้านล่าง (ไม่ส่งผลต่อการ Refresh)">
+<a href="#รายชื่อคอร์สทั้งหมด" title="เลื่อนไปดูรายชื่อคอร์สด้านล่าง (ไม่ส่งผลต่อการ Refresh)">
   <img src="https://img.shields.io/badge/📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=bookstack" />
 </a>
 
