@@ -251,6 +251,9 @@
 
 
 ---
+<a href="#-รายชื่อคอร์สทั้งหมด" title="คลิกเพื่อขึ้นไปที่หัวข้อ รายชื่อคอร์สทั้งหมด">
+  <img src="https://img.shields.io/badge/📚_เมนูหลัก-0066cc?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ดูคอร์สทั้งหมด" />
+</a>
 
 ### 💻 หมวดเวอร์ชวลไลเซชั่น & Backup สำรองข้อมูล 
 
