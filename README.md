@@ -24,7 +24,8 @@
 
 [![ดูคอร์สทั้งหมด](https://img.shields.io/badge/📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=readthedocs&logoColor=white)](#รายชื่อคอร์สทั้งหมด) 
 
-[![ดูคอร์สทั้งหมด](https://img.shields.io/badge/📚_ดูคอร์สทั้งหมด-0066cc?style=for-the-badge&logo=readthedocs)](https://github.com/ittraining2498/CourseOutline)
+<!--
+[![ดูคอร์สทั้งหมด](https://img.shields.io/badge/📚_ดูคอร์สทั้งหมด-0066cc?style=for-the-badge&logo=readthedocs)](https://github.com/ittraining2498/CourseOutline) -->
 
 ---
 <!--
