@@ -232,8 +232,8 @@
 [![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
 
 ---
-
-## 📚 รายชื่อคอร์สทั้งหมด
+## <a name="รายชื่อคอร์สทั้งหมด"></a> 📚รายชื่อคอร์สทั้งหมด
+<!-- ## 📚 รายชื่อคอร์สทั้งหมด -->
 <!-- [![กลับหน้าหลัก](https://img.shields.io/badge/🏠_กลับหน้าหลัก-0055ff?style=for-the-badge&logo=HomeAdvisor&logoColor=white)](#-ศูนย์อบรมไอทีเทรนนิ่ง--it-training-center) -->
 <a href="#-ศูนย์อบรมไอทีเทรนนิ่ง--it-training-center" title="กลับไปยังเมนูหลัก">
   <img src="https://img.shields.io/badge/🏠_กลับหน้าหลัก-0055ff?style=for-the-badge&logo=HomeAdvisor&logoColor=white" />
