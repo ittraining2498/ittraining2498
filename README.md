@@ -335,7 +335,9 @@
 | ![image](https://skillicons.dev/icons?i=nginx) Nginx ระดับ Advance  |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 |  <img src="https://raw.githubusercontent.com/ittraining2498/images/main/apache.svg" width="125" /> ระดับ Begining |⏳ <span style="color:orange">เร็ว ๆ นี้</span>| ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ <span style="color:orange">เร็ว ๆ นี้</span> [▶️](https://youtu.be/xxx) | ลงทะเบียน | 
 ---
-
+<a href="#-รายชื่อคอร์สทั้งหมด" title="คลิกเพื่อขึ้นไปที่หัวข้อ รายชื่อคอร์สทั้งหมด">
+  <img src="https://img.shields.io/badge/📚_เมนูหลัก-0066cc?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ดูคอร์สทั้งหมด" />
+</a>
 
 
 ## 🎬 วิดีโอตัวอย่างแนะนำ
