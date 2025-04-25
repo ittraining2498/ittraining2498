@@ -16,11 +16,14 @@
 
 <!-- ## 👋 ยินดีต้อนรับ -->
 ## 🔖 คอร์สทั้งหมดของเรา
+<!-- แบบนี้ส่งผลต่อการ Refresh Browser แล้วจะมาอยู่ที่หัวข้อที่ได้มีการระบุ
 <a href="#-รายชื่อคอร์สทั้งหมด" title="คลิกเพื่อดูคอร์สทั้งหมด">
   <img src="https://img.shields.io/badge/📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=bookstack&logoColor=white" />
-</a>
+</a> 
+-->
+<!-- กำหนดแบบนี้ไม่มีผลต่อการ Refresh และหัวข้อจะอยู่หัวข้อหลัก -->
 <a href="#-รายชื่อคอร์สทั้งหมด" title="เลื่อนไปดูรายชื่อคอร์สด้านล่าง">
-  <img src="https://img.shields.io/badge/📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=bookstack" />
+  <img src="https://img.shields.io/badge//📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=bookstack&logoColor=white" />
 </a>
 <!--
 <a href="#รายชื่อคอร์สทั้งหมด" title="เลื่อนไปดูรายชื่อคอร์สด้านล่าง (ไม่ส่งผลต่อการ Refresh)">
