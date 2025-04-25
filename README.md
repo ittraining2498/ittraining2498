@@ -15,11 +15,15 @@
 </p>
 
 <!-- ## 👋 ยินดีต้อนรับ -->
+
+
 ## 🔖 คอร์สทั้งหมดของเรา
+📚 [ดูคอร์สทั้งหมดอยู่ด้านล่าง ⬇️](#-รายชื่อคอร์สทั้งหมด)
+<!--
 <a href="#-รายชื่อคอร์สทั้งหมด" title="เลื่อนไปดูรายชื่อคอร์สด้านล่าง">
   <img src="https://img.shields.io/badge/📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
-
+-->
 <!-- แบบนี้ส่งผลต่อการ Refresh Browser แล้วจะมาอยู่ที่หัวข้อที่ได้มีการระบุ
 <a href="#-รายชื่อคอร์สทั้งหมด" title="คลิกเพื่อดูคอร์สทั้งหมด">
   <img src="https://img.shields.io/badge/📚_ดูคอร์สทั้งหมดที่นี่-0066cc?style=for-the-badge&logo=bookstack" />
