@@ -31,17 +31,27 @@
 ผู้ที่สนใจทุกท่าน   -->
 <!-- ผู้ที่สนใจอบรมระบบลีนุกซ์, Docker, Proxmox, Windows Server, DevOps -->
 
-## 📢 Zoom Meeting รอบนี้ปิดรับแล้ว
 
-![🚫 ปิดรับเข้าร่วมแล้ว](https://img.shields.io/badge/🚫_ขออภัย-ปิดรับแล้ว-red?style=for-the-badge&logo=zoom&logoColor=white)
+## 📢 Zoom รอบนี้ปิดรับแล้ว | เตรียมพบกับรอบถัดไป!
 
-⚠️ ขออภัยครับ ขณะนี้ห้อง Zoom สำหรับ GitHub Action ได้ปิดรับเข้าร่วมแล้ว 
+![🚫 ปิดรับแล้ว](https://img.shields.io/badge/🚫_ขออภัย-ปิดรับแล้ว-red?style=for-the-badge&logo=zoom&logoColor=white)
 
-📋 กรุณารอรอบถัดไป ติดตามได้ที่นี่ หรือกดติดตามทางเรา  
-
-
+> ⚠️ ขออภัยค่ะ ห้อง Zoom สำหรับรอบนี้ได้ปิดรับผู้เข้าร่วมแล้ว 
 
 ---
+
+## 📅 กำหนดการรอบถัดไป
+
+- 🗓️ **วัน/เวลา:** เร็วๆนี้ | เวลา 19:30 น. – 20:30 น.
+- 📋 **หัวข้อ:**  
+  🎯 * - *  
+  🎯 * - *
+
+📌 **ลงทะเบียนรับการแจ้งเตือนรอบถัดไปที่นี่:**  
+[![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-เร็วๆนี้-ff6600?style=for-the-badge)](https://forms.gle)
+<!-- [![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-คลิกที่นี่-ff6600?style=for-the-badge)](https://forms.gle/xxxx) -->
+
+
 <!--
 [![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/86860698153?pwd=vv5skJGqm9erRLnsrEnT3KtjaUTQSG.1)
 
