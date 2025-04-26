@@ -16,6 +16,7 @@
 💡 สอนจริง ใช้จริง พร้อมทดลองเรียนฟรี!
 
 ---
+<!-- ใช้งานจริง
 ## 📢 เข้าร่วม Zoom Meeting | พบกับทีมงานไอทีเทรนนิ่ง
 
 🗓️ **หัวข้อ:** GitHub Action  
@@ -27,15 +28,25 @@
 - ตอบคำถามสด
 
 🎯 **เหมาะสำหรับ:**  
-ผู้ที่สนใจทุกท่าน
+ผู้ที่สนใจทุกท่าน   -->
 <!-- ผู้ที่สนใจอบรมระบบลีนุกซ์, Docker, Proxmox, Windows Server, DevOps -->
 
----
+## 📢 Zoom Meeting รอบนี้ปิดรับแล้ว
 
+![🚫 ปิดรับเข้าร่วมแล้ว](https://img.shields.io/badge/🚫_ขออภัย-ปิดรับแล้ว-red?style=for-the-badge&logo=zoom&logoColor=white)
+
+⚠️ ขออภัยครับ ขณะนี้ห้อง Zoom สำหรับ GitHub Action ได้ปิดรับเข้าร่วมแล้ว 
+
+📋 กรุณารอรอบถัดไป ติดตามได้ที่นี่ หรือกดติดตามทางเรา  
+
+
+
+---
+<!--
 [![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/86860698153?pwd=vv5skJGqm9erRLnsrEnT3KtjaUTQSG.1)
 
 > 📌 เตรียมตัวให้พร้อมก่อนเริ่มประมาณ 5 นาที เพื่อไม่พลาดเนื้อหาสำคัญ
-
+-->
 <!--
 [![เข้าสู่ห้อง Zoom เรียนรู้และพูดคุยกับเรา](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/xxxxxxxxxx?pwd=xxxxxx)
 
