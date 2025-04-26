@@ -39,16 +39,29 @@
 > ⚠️ ขออภัยค่ะ ห้อง Zoom สำหรับรอบนี้ได้ปิดรับผู้เข้าร่วมแล้ว 
 
 ---
+## 📅 ติดตามรอบถัดไปได้ที่:
 
+📌 **ติดตามประกาศรอบถัดไปได้ที่เพจของเรา:**  
+[![Facebook](https://img.shields.io/badge/ติดตามข่าวสารที่เพจเร็วๆนี้>-เพจ-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=100077874567872) 
+> 📋 *ติดตามไว้เพื่อไม่พลาดรอบใหม่ และโปรโมชันพิเศษเฉพาะผู้ติดตามเท่านั้น!*
+<!--
+[![ติดตามข่าวสารที่เพจ](https://img.shields.io/badge/ติดตามข่าวสารที่เพจ-เร็วๆนี้-ff6600?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100077874567872)
+
+[![ติดตามข่าวสารที่เพจ](https://img.shields.io/badge/ติดตามข่าวสารที่เพจ-เร็วๆนี้-ff6600?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100077874567872)
+-->
+
+<!--
 ## 📅 กำหนดการรอบถัดไป
 
 - 🗓️ **วัน/เวลา:** เร็วๆนี้ | เวลา 19:30 น. – 20:30 น.
 - 📋 **หัวข้อ:**  
   🎯 * - *  
   🎯 * - *
+-->
 
+<!--
 📌 **ลงทะเบียนรับการแจ้งเตือนรอบถัดไปที่นี่:**  
-[![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-เร็วๆนี้-ff6600?style=for-the-badge)](https://forms.gle)
+[![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-เร็วๆนี้-ff6600?style=for-the-badge)](https://forms.gle)   -->
 <!-- [![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-คลิกที่นี่-ff6600?style=for-the-badge)](https://forms.gle/xxxx) -->
 
 
