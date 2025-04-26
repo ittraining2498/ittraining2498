@@ -13,7 +13,38 @@
 📌 <strong>เปิดให้บริการอบรมอย่างเป็นทางการเมื่อ เมษายน 2568</strong><br>
 💡 เราเน้นสอนจากประสบการณ์จริง พร้อมสื่อที่เข้าใจง่าย เหมาะสำหรับผู้เริ่มต้นจนถึงระดับมืออาชีพ 🙌
 </p>
+💡 สอนจริง ใช้จริง พร้อมทดลองเรียนฟรี!
 
+---
+## 📢 เข้าร่วม Zoom Meeting | พบกับทีมงานไอทีเทรนนิ่ง
+
+🗓️ **หัวข้อ:** GitHub Action  
+🕒 **เริ่มเวลา:** วันเสาร์ 26-4-68 | เวลา 13:20 น. – 13:45 น.  
+🧾 **เนื้อหาโดยสรุป:**
+- ลงทะเบียน
+- ใช้งานเบื้องต้น
+- ตัวอย่างนำไปใช้งาน
+- ตอบคำถามสด
+
+🎯 **เหมาะสำหรับ:**  
+ผู้ที่สนใจทุกท่าน
+<!-- ผู้ที่สนใจอบรมระบบลีนุกซ์, Docker, Proxmox, Windows Server, DevOps -->
+
+---
+
+[![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/86860698153?pwd=vv5skJGqm9erRLnsrEnT3KtjaUTQSG.1)
+
+> 📌 เตรียมตัวให้พร้อมก่อนเริ่มประมาณ 5 นาที เพื่อไม่พลาดเนื้อหาสำคัญ
+
+<!--
+[![เข้าสู่ห้อง Zoom เรียนรู้และพูดคุยกับเรา](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/xxxxxxxxxx?pwd=xxxxxx)
+
+[![เข้าร่วม Zoom Meeting](https://img.shields.io/badge/Join-Zoom%20Meeting-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/xxxxxxxxxx?pwd=xxxxxx)
+
+> 🕒 เปิดให้เข้าทุกวันจันทร์-ศุกร์ | เวลา 10:00–18:00 น.  
+> 📌 **ไม่ต้องลงทะเบียนล่วงหน้า เข้าร่วมได้เลย!**
+-->
+---
 <!-- ## 👋 ยินดีต้อนรับ -->
 
 
