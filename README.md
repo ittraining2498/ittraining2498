@@ -217,13 +217,16 @@
 🎬 **เนื้อหา:** เปลี่ยนรหัสผ่านของ root บน iDRAC | งานหลังบ้านสำหรับผู้ดูแลระบบเซิร์ฟเวอร์  
 📅 **อัปโหลด:** วันนี้ (อัปเดตล่าสุด)  
 <!-- ▶️ **ดูเลย:** [คลิกดูวิดีโอ](https://youtube.com/yourvideo) -->
-[![ติดตั้ง vCenter ถึง Stage2 มาดูต่อล็อกอินเข้าหน้า vCenter ตามลิงค์หลังติดตั้งเสร็จ Stage2 ](https://img.youtube.com/vi/3vgzxvHA1vM/0.jpg)](https://youtu.be/3vgzxvHA1vM) 
+[![Add Hostหรือ เพิ่มเครื่องเซิร์ฟเวอร์ที่ติดตั้ง Esxi เข้า vCenter เพื่อจัดการที่สะดวกขึ้น ](https://img.youtube.com/vi/wMbPKTS6bUc/0.jpg)](https://youtu.be/wMbPKTS6bUc) 
 > 💡 แนะนำ: กดติดตามช่องไว้ จะได้ไม่พลาดวิดีโอใหม่ทุกสัปดาห์!
 > 
 > 🎓 เหมาะสำหรับ: DevOps, Admin, ผู้ดูแลระบบมือใหม่
 
 ## 🔁 แนะนำดูวิดีโอก่อนหน้า
 
+1. 🎬 **ติดตั้ง vCenter ถึง Stage2 มาดูต่อล็อกอินเข้าหน้า vCenter ตามลิงค์หลังติดตั้งเสร็จ Stage2**  
+   ▶️ [คลิกดู](https://www.youtube.com/watch?v=3vgzxvHA1vM) – เปลี่ยนรหัสผ่านแบบง่ายๆบน iDRAC
+   
 1. 🎬 **เปลี่ยนรหัสผ่านของ root บน iDRAC | งานหลังบ้านสำหรับผู้ดูแลระบบเซิร์ฟเวอร์**  
    ▶️ [คลิกดู](https://www.youtube.com/watch?v=8icfId9I4T4) – เปลี่ยนรหัสผ่านแบบง่ายๆบน iDRAC 
    
