@@ -280,7 +280,7 @@
 [![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
 -->
 👇
-## 📘 ดาวน์โหลดฟรี - 2 เมษายนนี้ <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ittraining2498) -->
+## 📘 ดาวน์โหลดฟรี ถึง 2 เมษายนนี้ <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ittraining2498) -->
 <!--
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing) -->
 
