@@ -1,7 +1,7 @@
 <!-- สิ่งที่ต้องทำเพิ่ม
 1 - ทำหัวข้อและลิงค์ภายใน
 -->
-
+<!-- # ![logo][] PowerShell -->
 <!--
 # 🏫 ศูนย์อบรมไอทีเทรนนิ่ง | IT Training Center
 ![Proxmox](https://raw.githubusercontent.com/ittraining2498/images/main/proxmox.png)
@@ -280,14 +280,14 @@
 [![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
 -->
 👇
-## 📘 ดาวน์โหลดฟรี ถึง 2 เมษายนนี้ <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ittraining2498) -->
+## 📘 ดาวน์โหลดฟรี  <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ittraining2498) -->
 <!--
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing) -->
 
 <!--ตัวอย่าง
 | ✅ | การติดตั้ง Grafana บน Ubuntu Server 22.04 | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![ดาวน์โหลด](https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=flat-square&logo=ubuntu)](https://drive.google.com/file/d/1L1gj3soeoZXK5zXBZ1bX2iLQinzdWMQD/view?usp=sharing) |
 -->
-
+<!--
 | ลำดับ | หัวข้อ | หมายเหตุ | ดาวน์โหลด |
 |-------|--------|-----------|------------|
 | ✅ | การติดตั้ง Grafana บน Docker | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/19us3muSgojjt9y9HpIqXPEUHo1QQBdo5/view?usp=sharing)
@@ -303,15 +303,16 @@
 | ✅ |  ติดตั้ง VM Tools บน Ubuntu Server | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1hx8NFsDphVvroL-j0yWBKbOqSWNTkoTf/view?usp=sharing) |
 | ✅ |  ติดตั้งลีนุกซ์ Ubuntu Server 24.04LTS | 🔓 เปิดให้โหลดฟรีช่วงนี้ | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1kt9K4oY396kI9X-mIJyIkiKn2cytkrpI/view?usp=sharing) |
 
+-->
 
-
-> 🔓 **เอกสารนี้เปิดให้ดาวน์โหลดฟรี** โดยไม่ต้องสมัครสมาชิก  
+> 🔓 **ดาวน์โหลดฟรี** โดยไม่ต้องสมัครสมาชิก  
 > <!--📥 [คลิกที่นี่เพื่อดาวน์โหลดเอกสาร PDF](https://drive.google.com/file/d/1C4CdnG4op5IZj9eON8_112JA_yATN75G/view?usp=sharing) -->
 > 📥 [คลิกที่นี่เพื่อดาวน์โหลดไฟล์ ISO WINDOWS SERVER 2025](https://drive.google.com/file/d/1C4CdnG4op5IZj9eON8_112JA_yATN75G/view?usp=sharing)
 > 
-[![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP)
+<!-- [![เปิดให้โหลดฟรี](https://img.shields.io/badge/เปิดให้ชมฟรี-Yes-blue?style=for-the-badge&logo=github)](https://drive.google.com/drive/u/0/folders/1ufUDWYPS-M5atLPT76rzNCFE9KIoptOP) -->
 
 ---
+
 ## <a name="รายชื่อคอร์สทั้งหมด"></a> 📚รายชื่อคอร์สทั้งหมด
 <!-- ## 📚 รายชื่อคอร์สทั้งหมด -->
 <!-- [![กลับหน้าหลัก](https://img.shields.io/badge/🏠_กลับหน้าหลัก-0055ff?style=for-the-badge&logo=HomeAdvisor&logoColor=white)](#-ศูนย์อบรมไอทีเทรนนิ่ง--it-training-center) -->
