@@ -264,9 +264,9 @@
 📧 หากต้องการสิทธิ์เข้าถึง กรุณาติดต่อ: ไลน์ @linux
 
 ## 🔐 เอกสาร,วิดีโอ ดูฟรี โหลดฟรี 
-
+<!--
 ![เปิดให้โหลดฟรีแล้ววันนี้](https://img.shields.io/badge/เปิดให้ชมฟรีแล้ววันนี้!-Yes-blue?style=for-the-badge&logo=readthedocs)
-
+-->
 <!-- <img src="https://img.shields.io/badge/ดาวน์โหลด-VDO-red?style=for-the-badge&logo=clouddownload" alt="ดาวน์โหลด"> -->
 
 <!-- อีกแบบ
