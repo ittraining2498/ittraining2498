@@ -37,32 +37,32 @@
 <!-- ผู้ที่สนใจอบรมระบบลีนุกซ์, Docker, Proxmox, Windows Server, DevOps -->
 
 
-## 📢 Zoom รอบนี้ปิดรับแล้ว | เตรียมพบกับรอบถัดไป!
+<!-- ## 📢 Zoom คืนนี้  | เตรียมพบกับรอบถัดไป! -->
+## 📢 Zoom คืนนี้
 
-![🚫 ปิดรับแล้ว](https://img.shields.io/badge/🚫_ขออภัย-ปิดรับแล้ว-red?style=for-the-badge&logo=zoom&logoColor=white)
+<!-- ![🚫 ปิดรับแล้ว](https://img.shields.io/badge/🚫_ขออภัย-ปิดรับแล้ว-red?style=for-the-badge&logo=zoom&logoColor=white) 
 
-> ⚠️ ขออภัยค่ะ ห้อง Zoom สำหรับรอบนี้ได้ปิดรับผู้เข้าร่วมแล้ว 
+> ⚠️ ขออภัยค่ะ ห้อง Zoom สำหรับรอบนี้ได้ปิดรับผู้เข้าร่วมแล้ว  -->
 
 ---
-## 📅 ติดตามรอบถัดไปได้ที่:
+<!-- ## 📅 ติดตามรอบถัดไปได้ที่:
 
 📌 **ติดตามประกาศรอบถัดไปได้ที่เพจของเรา:**  
 [![Facebook](https://img.shields.io/badge/ติดตามข่าวสารที่เพจเร็วๆนี้>-เพจ-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=100077874567872) 
-> 📋 *ติดตามไว้เพื่อไม่พลาดรอบใหม่ และโปรโมชันพิเศษเฉพาะผู้ติดตามเท่านั้น!*
+> 📋 *ติดตามไว้เพื่อไม่พลาดรอบใหม่ และโปรโมชันพิเศษเฉพาะผู้ติดตามเท่านั้น!* -->
 <!--
 [![ติดตามข่าวสารที่เพจ](https://img.shields.io/badge/ติดตามข่าวสารที่เพจ-เร็วๆนี้-ff6600?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100077874567872)
 
 [![ติดตามข่าวสารที่เพจ](https://img.shields.io/badge/ติดตามข่าวสารที่เพจ-เร็วๆนี้-ff6600?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100077874567872)
 -->
 
-<!--
+
 ## 📅 กำหนดการรอบถัดไป
 
-- 🗓️ **วัน/เวลา:** เร็วๆนี้ | เวลา 19:30 น. – 20:30 น.
-- 📋 **หัวข้อ:**  
-  🎯 * - *  
-  🎯 * - *
--->
+- 🗓️ **วันที่ 7-5-202  | เวลา 20:00 น. – 21:00 น.
+- 📋 **ติดตั้งฟรี Proxmox สำหรับมือใหม่:**  
+
+
 
 <!--
 📌 **ลงทะเบียนรับการแจ้งเตือนรอบถัดไปที่นี่:**  
@@ -70,10 +70,10 @@
 <!-- [![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-คลิกที่นี่-ff6600?style=for-the-badge)](https://forms.gle/xxxx) -->
 
 
-<!--
-[![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/86860698153?pwd=vv5skJGqm9erRLnsrEnT3KtjaUTQSG.1)
 
-> 📌 เตรียมตัวให้พร้อมก่อนเริ่มประมาณ 5 นาที เพื่อไม่พลาดเนื้อหาสำคัญ
+[![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/88179188964?pwd=pv2Tvry5QsvyCabOezpHf0vVN4XnKm.1)
+
+> 📌 เตรียมตัวเข้าห้องก่อนเริ่มประมาณ 10 นาที 
 -->
 <!--
 [![เข้าสู่ห้อง Zoom เรียนรู้และพูดคุยกับเรา](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/j/xxxxxxxxxx?pwd=xxxxxx)
