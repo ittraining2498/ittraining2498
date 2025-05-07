@@ -73,6 +73,9 @@
 
 [![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/88179188964?pwd=pv2Tvry5QsvyCabOezpHf0vVN4XnKm.1)
 
+Meeting ID: 881 7918 8964  
+Passcode: 982651
+
 > 📌 เตรียมตัวเข้าห้องก่อนเริ่มประมาณ 10 นาที 
 -->
 <!--
