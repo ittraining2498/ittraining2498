@@ -59,21 +59,18 @@
 
 ## 📅 กำหนดการรอบถัดไป
 
-- 🗓️ **วันที่ 7-5-2025  | เวลา 20:30 น. – 21:30 น.
-- 📋 **Proxmox สำหรับมือใหม่:**  
-      - ติดตั้ง Proxmox เพื่อทำ LAB เรียนรู้เอง  
-      - การจัดการทั่วไป สำหรับมือใหม่
-
+- 🗓️ **วันที่ 8-5-2025  | เวลา 20:00 น. – 21:00 น.
+- 📋 **แนวทางสมัครงานสำหรับน้องจบใหม่ และ ปสก.1-5 ปี:**  
 
 
 <!--
 📌 **ลงทะเบียนรับการแจ้งเตือนรอบถัดไปที่นี่:**  
 [![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-เร็วๆนี้-ff6600?style=for-the-badge)](https://forms.gle)   -->
-<!-- [![ลงทะเบียนล่วงหน้า](https://img.shields.io/badge/ลงทะเบียนล่วงหน้า-คลิกที่นี่-ff6600?style=for-the-badge)](https://forms.gle/xxxx) -->
+<!-- [![ลงทะเบียนล่วงหน้า](https://us06web.zoom.us/j/87407140327?pwd=p9GAQcefdgPwtWV9mrMBHCfBdq8hJu.1)](https://forms.gle/xxxx) -->
 
 
 
-[![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/88179188964?pwd=pv2Tvry5QsvyCabOezpHf0vVN4XnKm.1)
+[![คลิกเพื่อเข้าร่วม Zoom Meeting](https://img.shields.io/badge/🚀_คลิกเพื่อเข้าสู่ห้อง_Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us06web.zoom.us/j/87407140327?pwd=p9GAQcefdgPwtWV9mrMBHCfBdq8hJu.1)
 
 Meeting ID: 881 7918 8964  
 Passcode: 982651
