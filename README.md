@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://youtube.com/@ittraining2498"><img src="assets/profile/learn.svg" width="30%" alt="เริ่มเรียนฟรีบน YouTube"></a>
-<a href="docs/course-catalog.md"><img src="assets/profile/courses.svg" width="30%" alt="ดูหลักสูตรทั้งหมด"></a>
+<a href="https://courses.ittraining.co.th"><img src="assets/profile/courses.svg" width="30%" alt="ดูหลักสูตรทั้งหมด"></a>
 <a href="https://lin.ee/n5o31g8"><img src="assets/profile/contact.svg" width="30%" alt="ติดต่ออบรมผ่าน LINE"></a>
 </p>
 
@@ -30,7 +30,9 @@
 - **Monitoring** — เริ่มติดตั้งเครื่องมือ แล้วเรียนรู้การติดตามสถานะของระบบ
 - **Cybersecurity** — ต่อจากพื้นฐานเครือข่าย สู่การตรวจสอบและวิเคราะห์เหตุการณ์
 
-[**ดูหลักสูตรทั้งหมด**](docs/course-catalog.md) &nbsp; · &nbsp; [อ่านรายละเอียด Course Outline](https://github.com/ittraining2498/CourseOutline)
+<p align="center">
+<a href="https://courses.ittraining.co.th"><img src="assets/profile/all-courses.svg" width="360" alt="ดูหลักสูตรทั้งหมด"></a>
+</p>
 
 ## ทดลองเรียนจากบทเรียนจริง
 
