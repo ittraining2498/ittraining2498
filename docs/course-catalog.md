@@ -14,6 +14,8 @@
   <a href="#-หมวดเว็บเซิร์ฟเวอร์--เว็บไซต์">เว็บเซิร์ฟเวอร์</a>
 </p>
 
+<a name="systems"></a>
+
 ### 🔧 หมวดระบบปฏิบัติการ
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
@@ -31,6 +33,8 @@
 
 <sub><a href="#-รายชื่อคอร์สทั้งหมด">⬆️ กลับไปรายชื่อคอร์สทั้งหมด</a></sub>
 
+<a name="monitoring"></a>
+
 ### 📈 หมวด Monitoring
 
 | คอร์ส | คอร์ส Outline | รูปแบบ | ตัวอย่าง | ลงทะเบียน |
@@ -43,6 +47,8 @@
 | <img src="https://raw.githubusercontent.com/ittraining2498/images/main/graylog.svg" width="65" /> Graylog | ⏳ เร็ว ๆ นี้ | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ เร็ว ๆ นี้ | ⏳ เร็ว ๆ นี้ |
 
 <sub><a href="#-รายชื่อคอร์สทั้งหมด">⬆️ กลับไปรายชื่อคอร์สทั้งหมด</a></sub>
+
+<a name="virtualization"></a>
 
 ### 💻 หมวด Virtualization & Backup
 
@@ -105,6 +111,8 @@
 | <img src="https://raw.githubusercontent.com/ittraining2498/images/main/huawei-seeklogo.png" width="55" /> Huawei Cloud | ⏳ เร็ว ๆ นี้ | ~~วิดีโอ~~, ~~ออนไลน์ซูม~~, ~~ออนไซต์~~ | ⏳ เร็ว ๆ นี้ | ⏳ เร็ว ๆ นี้ |
 
 <sub><a href="#-รายชื่อคอร์สทั้งหมด">⬆️ กลับไปรายชื่อคอร์สทั้งหมด</a></sub>
+
+<a name="security"></a>
 
 ### 🛡️ หมวด SIEM
 
