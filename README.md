@@ -31,7 +31,8 @@
 - **Cybersecurity** — ต่อจากพื้นฐานเครือข่าย สู่การตรวจสอบและวิเคราะห์เหตุการณ์
 
 <p align="center">
-<a href="https://courses.ittraining.co.th"><img src="assets/profile/all-courses.svg" width="360" alt="ดูหลักสูตรทั้งหมด"></a>
+<a href="https://courses.ittraining.co.th"><img src="assets/profile/all-courses-premium.png" width="48%" alt="ดูหลักสูตรทั้งหมด"></a>
+<a href="https://www.ebooks.ittraining.co.th"><img src="assets/profile/ebooks-premium.png" width="48%" alt="ดู eBooks — หนังสือดิจิทัล IT Training"></a>
 </p>
 
 ## ทดลองเรียนจากบทเรียนจริง
