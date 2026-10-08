@@ -14,6 +14,18 @@
 
 <p align="center"><a href="https://github.com/ittraining2498?tab=followers"><img src="https://img.shields.io/github/followers/ittraining2498?style=flat&logo=github&label=GitHub%20Followers&labelColor=0b233b&color=087bb9" alt="จำนวนผู้ติดตาม GitHub"></a> &nbsp; <strong>เรียนรู้ไม่มีวันสิ้นสุด</strong><br><sub>ติดตามบทเรียนด้วยปุ่ม Follow บนโปรไฟล์ · ตัวเลขในป้ายอาจมีเวลาหน่วง</sub></p>
 
+## คลังสคริปต์ฟรีสำหรับคนดูแลระบบ
+
+<a href="https://ittraining2498.github.io/linux-sysadmin-scripts/"><img src="assets/profile/script-library-3d.png" width="100%" alt="คลังสคริปต์ฟรีสำหรับคนดูแลระบบ — Linux และ Proxmox — คลิกเปิดคลังสคริปต์"></a>
+
+เลือกตามงาน อ่านข้อจำกัด และคัดลอกคำสั่งไปทดลองในแล็บก่อนใช้งานจริง · รองรับ **ไทย / English / ລາວ**
+
+[**เปิดคลังสคริปต์ →**](https://ittraining2498.github.io/linux-sysadmin-scripts/) &nbsp; · &nbsp; [ดูซอร์สโค้ด](https://github.com/ittraining2498/linux-sysadmin-scripts) &nbsp; · &nbsp; [แจ้งปัญหา / เสนอแนวทางพัฒนา](https://github.com/ittraining2498/linux-sysadmin-scripts/issues)
+
+<a href="https://github.com/ittraining2498"><img src="assets/profile/follow-community-3d.png" width="100%" alt="ชอบเครื่องมือแบบนี้? ติดตาม IT Training บน GitHub — พบสคริปต์ใหม่และแนวทางดูแลระบบ — กด Follow บนหน้าโปรไฟล์"></a>
+
+<p align="center"><strong>ติดตามด้วยปุ่ม Follow บนโปรไฟล์</strong> เพื่อพบผลงานใหม่จาก IT Training<br><sub>ต้องลงชื่อเข้าใช้ GitHub และกด Follow ด้วยตนเอง · หากต้องการแจ้งเตือนเฉพาะรีโป เลือก Watch ในรีโปสคริปต์</sub></p>
+
 ## เส้นทางการเรียนที่เหมาะกับคุณ
 
 **เพิ่งเริ่มต้น?** เริ่มที่ Linux & Server &nbsp; · &nbsp; **ดูแลระบบอยู่แล้ว?** ต่อยอด Virtualization, Monitoring และ Security
