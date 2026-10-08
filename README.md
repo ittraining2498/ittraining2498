@@ -22,9 +22,9 @@
 
 [**เปิดคลังสคริปต์ →**](https://ittraining2498.github.io/linux-sysadmin-scripts/) &nbsp; · &nbsp; [ดูซอร์สโค้ด](https://github.com/ittraining2498/linux-sysadmin-scripts) &nbsp; · &nbsp; [แจ้งปัญหา / เสนอแนวทางพัฒนา](https://github.com/ittraining2498/linux-sysadmin-scripts/issues)
 
-<a href="https://github.com/ittraining2498"><img src="assets/profile/follow-community-3d.png" width="100%" alt="ชอบเครื่องมือแบบนี้? ติดตาม IT Training บน GitHub — พบสคริปต์ใหม่และแนวทางดูแลระบบ — กด Follow บนหน้าโปรไฟล์"></a>
+<picture><img src="assets/profile/follow-community-3d-v2.png" width="100%" alt="ชอบเครื่องมือแบบนี้? ติดตาม IT Training บน GitHub — กด Follow ใต้รูปโปรไฟล์"></picture>
 
-<p align="center"><strong>ติดตามด้วยปุ่ม Follow บนโปรไฟล์</strong> เพื่อพบผลงานใหม่จาก IT Training<br><sub>ต้องลงชื่อเข้าใช้ GitHub และกด Follow ด้วยตนเอง · หากต้องการแจ้งเตือนเฉพาะรีโป เลือก Watch ในรีโปสคริปต์</sub></p>
+<p align="center"><strong>กดปุ่ม Follow ใต้รูปโปรไฟล์</strong> เพื่อพบผลงานใหม่จาก IT Training<br><sub>ต้องลงชื่อเข้าใช้ GitHub และกด Follow ด้วยตนเอง · หากต้องการแจ้งเตือนเฉพาะรีโป เลือก Watch ในรีโปสคริปต์</sub></p>
 
 ## เส้นทางการเรียนที่เหมาะกับคุณ
 
